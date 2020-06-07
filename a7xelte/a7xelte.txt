@@ -1,0 +1,278 @@
+=======================
+     2020/06/07
+=======================
+
+
+=======================
+     2020/06/06
+=======================
+
+* Repository: https://github.com/FreakyOS/build/commits/still_alive
+
+0815bf0 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/build into still_alive
+
+* Repository: https://github.com/FreakyOS/build_soong/commits/still_alive
+
+c7b0096 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/build/soong into still_alive
+
+* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
+
+8e8445a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/av into still_alive
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+ddd68a9d Use open camera intent string from Intent class
+
+* Repository: https://github.com/FreakyOS/frameworks_native/commits/still_alive
+
+233c629 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/native into still_alive
+
+* Repository: https://github.com/FreakyOS/frameworks_opt_telephony/commits/still_alive
+
+63a6c84 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/opt/telephony into HEAD
+
+* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+
+0d301bf manifest: Track some repos
+
+* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
+
+c7d165a Graveyard: Move to AndroidX
+
+* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
+
+3795426 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Settings into HEAD
+
+* Repository: https://github.com/FreakyOS/packages_apps_Snap/commits/still_alive
+
+86a6c98 Snap: remove duplicate pause button
+
+* Repository: https://github.com/FreakyOS/packages_services_Telecomm/commits/still_alive
+
+ac9464a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/services/Telecomm into still_alive
+
+* Repository: https://github.com/FreakyOS/packages_services_Telephony/commits/still_alive
+
+accce68 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/services/Telephony into still_alive
+
+* Repository: https://github.com/FreakyOS/system_bt/commits/still_alive
+
+a224308 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/bt into still_alive
+
+* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
+
+3ac334c Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/core into still_alive
+
+* Repository: https://github.com/FreakyOS/system_sepolicy/commits/still_alive
+
+45cc60a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/sepolicy into still_alive
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+3c3b0a1 BoardConfigKernel: Opt-in for bison and flex
+
+
+=======================
+     2020/06/05
+=======================
+
+
+=======================
+     2020/06/04
+=======================
+
+* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
+
+6cd5d3c Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_apps_Recorder/commits/ten
+
+8aed7e6 Merge "Show video thumbnail on notification when record complete" into ten
+
+
+=======================
+     2020/06/03
+=======================
+
+* Repository: https://github.com/PixelExperience/art/commits/ten
+
+6d0dcfe Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/art into HEAD
+
+* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
+
+2e531e6 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/bootable/recovery into HEAD
+
+* Repository: https://github.com/PixelExperience/development/commits/ten
+
+73aec18 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/development into HEAD
+
+* Repository: https://github.com/PixelExperience/external_libhevc/commits/ten
+
+2323ab6 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/external/libhevc into HEAD
+
+* Repository: https://github.com/PixelExperience/external_libtextclassifier/commits/ten
+
+bfc19c6 Update text classifier models
+
+* Repository: https://github.com/PixelExperience/frameworks_opt_net_wifi/commits/ten
+
+fce8150 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/opt/net/wifi into HEAD
+
+* Repository: https://github.com/PixelExperience/frameworks_opt_timezonepicker/commits/ten
+
+66a958c Restore time_zone_item ripple effect
+
+* Repository: https://github.com/PixelExperience/hardware_interfaces/commits/ten
+
+10d072a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/interfaces into HEAD
+
+* Repository: https://github.com/PixelExperience/hardware_nxp_nfc/commits/ten
+
+c92e466 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/nxp/nfc into HEAD
+
+* Repository: https://github.com/PixelExperience/hardware_qcom_audio/commits/ten
+
+f8d9a0e Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/audio into HEAD
+
+* Repository: https://github.com/PixelExperience/hardware_qcom_display/commits/ten
+
+6b02f5d Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/display into HEAD
+
+* Repository: https://github.com/PixelExperience/hardware_qcom_media/commits/ten
+
+5cf1d12 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/media into HEAD
+
+* Repository: https://github.com/PixelExperience/hardware_qcom_sdm845_media/commits/ten
+
+1751d4e Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/sdm845/media into HEAD
+
+* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
+
+9f5f074 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Bluetooth into HEAD
+
+* Repository: https://github.com/PixelExperience/packages_apps_Camera2/commits/ten
+
+ed448ff Camera2: Fix crash when app requesting intent has requested no permisions.
+
+* Repository: https://github.com/PixelExperience/packages_apps_CertInstaller/commits/ten
+
+b067962 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/CertInstaller into HEAD
+
+* Repository: https://github.com/PixelExperience/packages_apps_DocumentsUI/commits/ten
+
+a624c57 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/DocumentsUI into HEAD
+
+* Repository: https://github.com/PixelExperience/packages_apps_Nfc/commits/ten
+
+19eec7a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Nfc into HEAD
+
+* Repository: https://github.com/PixelExperience/packages_apps_Stk/commits/ten
+
+32a9973 Remove deprecated unenforced permission from manifest.
+
+* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
+
+0bed67a Adapt to PixelExperience
+
+* Repository: https://github.com/PixelExperience/packages_apps_Traceur/commits/ten
+
+45ebdb6 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Traceur into HEAD
+
+* Repository: https://github.com/PixelExperience/packages_modules_CaptivePortalLogin/commits/ten
+
+38e8ddf Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/modules/CaptivePortalLogin into HEAD
+
+* Repository: https://github.com/PixelExperience/packages_providers_DownloadProvider/commits/ten
+
+3fbe4b7 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/providers/DownloadProvider into HEAD
+
+* Repository: https://github.com/PixelExperience/packages_providers_MediaProvider/commits/ten
+
+c4264ea Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/providers/MediaProvider into HEAD
+
+* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
+
+2d1aa3a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/services/BuiltInPrintService into HEAD
+
+* Repository: https://github.com/PixelExperience/platform_testing/commits/ten
+
+79ea041 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/platform_testing into HEAD
+
+* Repository: https://github.com/PixelExperience/system_extras/commits/ten
+
+7fcb234 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/extras into HEAD
+
+* Repository: https://github.com/PixelExperience/system_vold/commits/ten
+
+ee29b67 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/vold into HEAD
+
+
+=======================
+     2020/06/02
+=======================
+
+
+=======================
+     2020/06/01
+=======================
+
+
+=======================
+     2020/05/31
+=======================
+
+
+=======================
+     2020/05/30
+=======================
+
+
+=======================
+     2020/05/29
+=======================
+
+* Repository: https://github.com/FreakyOS/device_custom_sepolicy/commits/still_alive
+
+d237d59 sepolicy: allow settings to read selinux status
+
+* Repository: https://github.com/FreakyOS/packages_apps_Updater/commits/still_alive
+
+98a97ea Updater: Refractor for FreakyOS
+
+* Repository: https://github.com/FreakyOS/packages_apps_WallBucket/commits/still_alive
+
+f5d5fa7 WallBucket: Refractor for FreakyOS
+
+
+=======================
+     2020/05/28
+=======================
+
+* Repository: https://github.com/FreakyOS/system_netd/commits/still_alive
+
+b2f435f system/netd: Squash of app fw restriction commits
+
+
+=======================
+     2020/05/27
+=======================
+
+
+=======================
+     2020/05/26
+=======================
+
+* Repository: https://github.com/FreakyOS/external_airbnb-lottie/commits/still_alive
+
+fea584a Merge tag 'v3.3.1' into FreakyOS
+
+* Repository: https://github.com/LineageOS/android_packages_inputmethods_LatinIME/commits/lineage-17.1
+
+788fe07 Support polytonic Greek diacritics in the Greek keyboard
+
+
+=======================
+     2020/05/25
+=======================
+
+
