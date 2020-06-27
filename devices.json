@@ -1,0 +1,18 @@
+{
+    "response": [
+        {
+            "name": "Samsung A7 (A710XX)",
+            "brand": "Samsung",
+            "codename": "a7xelte",
+            "maintainer": "bunnyy",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQF9fXvhsM-gmQZzAG15iM8HdP5_xkTGenzkw&usqp=CAU"
+        },
+        {
+            "name": "Samsung A5 (A510XX)",
+            "brand": "Samsung",
+            "codename": "a5xelte",
+            "maintainer": "bunnyy",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQF9fXvhsM-gmQZzAG15iM8HdP5_xkTGenzkw&usqp=CAU"
+        }
+    ]
+}
