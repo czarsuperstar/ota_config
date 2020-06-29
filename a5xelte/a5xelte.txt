@@ -1,174 +1,106 @@
 =======================
-     2020/05/28
+     2020/06/29
 =======================
 
 * Repository: https://github.com/FreakyOS/build/commits/still_alive
 
-34bbf8f build: Refractor for FreakyOS
+762287f build: check_boot_jars: Whitelist lineage touch HAL
 
 * Repository: https://github.com/FreakyOS/device_custom_sepolicy/commits/still_alive
 
-1dcfe01 sepolicy: allow settings to read selinux status
+513d3cc common: Move aux camera whitelist prop to vendor
+
+* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
+
+6b84249 Revert "libcameraservice: add TARGET_CAMERA_NEEDS_CLIENT_INFO"
 
 * Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
 
-fa46022dbd0 base: fix some typos
+fc2ee35 WifiManager: Add StaState API
+
+* Repository: https://github.com/FreakyOS/frameworks_native/commits/still_alive
+
+b2e2402 surfaceflinger: change usageBits type to uint64_t
+
+* Repository: https://github.com/FreakyOS/frameworks_opt_telephony/commits/still_alive
+
+7309031 Avoid SubscriptionManager#getUriForSubscriptionId calls with invalid subIds
+
+* Repository: https://github.com/FreakyOS/hardware_custom_interfaces/commits/still_alive
+
+cf37ff4 gnss-legacy: Bring back GLONASS
 
 * Repository: https://github.com/FreakyOS/manifest/commits/still_alive
 
-fdf1a24 manifest: Refractor for FreakyOS
+11668d5 Merge "Revert "manifest: [TEMP] Track some caf repos"" into still_alive
+
+* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
+
+eabef9b FreakyGraveyard: Make QS blur togglable [2/2]
+
+* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
+
+5b50e2e OmniStyle: Refractor for FreakyOS
 
 * Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
 
-eb92f1e Settings: fix some typos
+100e5c6 Automatic translation import
 
 * Repository: https://github.com/FreakyOS/packages_apps_WallBucket/commits/still_alive
 
-353b7f4 WallBucket: Refractor for FreakyOS
+71d5a90 WallBucket: Enable appwide hardware acceleration
 
-* Repository: https://github.com/FreakyOS/system_netd/commits/still_alive
+* Repository: https://github.com/FreakyOS/packages_services_Telecomm/commits/still_alive
 
-b2f435f system/netd: Squash of app fw restriction commits
-
-* Repository: https://github.com/FreakyOS/system_sepolicy/commits/still_alive
-
-0a08d81 sepolicy: Allow Settings > Device info to load selinux status
-
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-49e6af2 vendor: Refractor for FreakyOS
-
-
-=======================
-     2020/05/27
-=======================
-
-
-=======================
-     2020/05/26
-=======================
-
-* Repository: https://github.com/FreakyOS/external_airbnb-lottie/commits/still_alive
-
-fea584a Merge tag 'v3.3.1' into FreakyOS
-
-* Repository: https://github.com/FreakyOS/packages_apps_Updater/commits/still_alive
-
-a291382 Updater: Refractor for FreakyOS
-
-* Repository: https://github.com/LineageOS/android_packages_inputmethods_LatinIME/commits/lineage-17.1
-
-788fe07 Support polytonic Greek diacritics in the Greek keyboard
-
-
-=======================
-     2020/05/25
-=======================
+d22b79e Telecomm: incall vibration options [2/3]
 
 * Repository: https://github.com/FreakyOS/system_core/commits/still_alive
 
-43a8382 fs_mgr: skip setting rootfs block as ro during mount_all in recovery
+ec091df Fine tune blkio setting to improve boot time
+
+* Repository: https://github.com/FreakyOS/system_sepolicy/commits/still_alive
+
+f1751ef Export missing audio volume properties
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+7da0623 kernel: Replace KERNEL_LD with KERNEL_SUPPORTS_LLD
+
+=======================
+     2020/06/23
+=======================
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_audio/commits/ten
+
+e7da55b Merge tag 'LA.UM.6.4.r1-05700-8x98.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/audio into ten
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_display/commits/ten
+
+b91b0c9 Merge tag 'LA.UM.8.4.r1-05700-8x98.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/display into ten
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_media/commits/ten
+
+49b5ed0 Merge tag 'LA.UM.8.4.r1-05700-8x98.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/media into ten
 
 
 =======================
-     2020/05/24
+     2020/06/22
 =======================
+
+* Repository: https://github.com/LineageOS/android_packages_inputmethods_LatinIME/commits/lineage-17.1
+
+10b148a Automatic translation import
 
 * Repository: https://github.com/LineageOS/android_packages_resources_devicesettings/commits/lineage-17.1
 
-fe24103 Automatic translation import
-
-
-=======================
-     2020/05/23
-=======================
-
+7a3adac Automatic translation import
 
 =======================
-     2020/05/22
+     2020/06/16
 =======================
 
+* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
 
-=======================
-     2020/05/21
-=======================
-
-* Repository: https://github.com/PixelExperience/device_qcom_sepolicy-legacy-um/commits/ten
-
-50d2d6d sepolicy: Unlabel aux camera whitelist prop
-
-* Repository: https://github.com/PixelExperience/hardware_qcom_media/commits/ten
-
-e092819 media: replace %zd with %ld in ssize_t argument
-
-
-=======================
-     2020/05/20
-=======================
-
-* Repository: https://github.com/PixelExperience/device_qcom_sepolicy/commits/ten
-
-2509b45 sepolicy: Unlabel aux camera whitelist prop
-
-* Repository: https://github.com/PixelExperience/external_cldr/commits/ten
-
-56c389b CLDR-13739 tzdata2020a updates (#440) [Q]
-
-* Repository: https://github.com/PixelExperience/external_icu/commits/ten
-
-0bcae65 Update Android to tzdb 2020a [Q branch]
-
-* Repository: https://github.com/PixelExperience/frameworks_opt_net_wifi/commits/ten
-
-739e99d wifi_hal: add slsi wifi hal support
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_common/commits/ten
-
-55f0691 Don't BUILD_WITHOUT_VENDOR
-
-* Repository: https://github.com/PixelExperience/packages_apps_Camera2/commits/ten
-
-b7a5706 Camera2: Add privapp permissions xml
-
-* Repository: https://github.com/FreakyOS/packages_apps_FMRadio/commits/still_alive
-
-2b43bb2 FMRadio: add BOARD_HAVE_SLSI_FM guard
-
-* Repository: https://github.com/PixelExperience/system_timezone/commits/ten
-
-e473b8c Update Android to tzdb 2020a [Q branch]
-
-
-=======================
-     2020/05/19
-=======================
-
-
-=======================
-     2020/05/18
-=======================
-
-
-=======================
-     2020/05/17
-=======================
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sdm845_display/commits/ten
-
-17e459e Revert "sdm: add rotator max line width capability."
-
-
-=======================
-     2020/05/16
-=======================
-
-* Repository: https://github.com/PixelExperience/hardware_qcom_audio/commits/ten
-
-b479a71 audio: replace %zd with %jd for ssize_t argument
-
-
-=======================
-     2020/05/15
-=======================
+45c7858 Automatic translation import
 
 
