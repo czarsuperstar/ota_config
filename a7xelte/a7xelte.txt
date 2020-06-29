@@ -1,251 +1,115 @@
 =======================
-     2020/06/11
-=======================
-
-* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
-
-b38380df098 base: Make 'R style' notification headers toggleable [1/2]
-ada39f15ef0 base: Add three-fingers-swipe to screenshot [1/2]
-0ff7851dd26 SystemUI: QS: Add USB Tether Tile
-
-* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
-
-ebdf90f Graveyard: Make 'R style' notification headers toggleable [2/2]
-d979edb Graveyard: Add three-fingers-swipe to screenshot [2/2]
-
-* Repository: https://github.com/FreakyOS/packages_apps_WallBucket/commits/still_alive
-
-99084ec WallBucket: Add some more FreakyOS walls
-
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-60155f41 vendor: Add our bootanimation $FreakyOS
-5990a867 vendor: build StitchImage
-
-
-=======================
-     2020/06/10
-=======================
-
-* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
-
-aaf51627ee Merge "[4/4] Port face unlock feature" into still_alive
-
-
-=======================
-     2020/06/09
+     2020/06/29
 =======================
 
 * Repository: https://github.com/FreakyOS/device_custom_sepolicy/commits/still_alive
 
-e567b66 sepolicy: Add rules for Long screenshot service
+931a2ab sepolicy: Add pocket judge selinux policy
 
-* Repository: https://github.com/FreakyOS/packages_services_Telephony/commits/still_alive
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
 
-125278d66 LteTile: Fix network modes for 10
-
-=======================
-     2020/06/07
-=======================
-
-* Repository: https://github.com/FreakyOS/frameworks_opt_telephony/commits/still_alive
-
-15d5d0f Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/opt/telephony into still_alive
-
-
-=======================
-     2020/06/06
-=======================
-
-* Repository: https://github.com/FreakyOS/build/commits/still_alive
-
-0815bf0 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/build into still_alive
-
-* Repository: https://github.com/FreakyOS/build_soong/commits/still_alive
-
-c7b0096 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/build/soong into still_alive
-
-* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
-
-8e8445a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/av into still_alive
-
-* Repository: https://github.com/FreakyOS/frameworks_native/commits/still_alive
-
-233c629 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/native into still_alive
-
-* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
-
-0d301bf manifest: Track some repos
+29d28a5 Fix bootanimation stack overflow
+6e46ba0 base: Animate OOS dismiss
+b9dbef0 base: Update QS blur keyguard check
+958d36d base: Make QS blur togglable [1/2]
+ad9022f base: Blur behind QS
+2338008 base: Allow to disable Lockscreen Media Art [1/2]
+376829a pocket: Reduce sleep timeout for pocket lock
+8b35c46 PocketLock: Remove animations
+27d2c00 pocket: Use MD2 lock drawable
+2383e43f Pocket lock improvements
+e673152 pocket: Fix pocket lock view for display cutouts
+ea198b5 pocket: Adjust sleep timeout for pocket lock view to 10 secs
+ba51507 Pocket: introduce pocket bridge
+ca9bc5b PocketService: Adjust light sensor rate to 400ms
+b19b28c pocket: Add hardware acceleration and properly maintain SYSTEM_UI flags
+392640f core: Pocket: policy: introduce pocket lock
+538a32d core: Pocket: introduce pocket judge
+8fc48d8 base: incall vibration options [1/3]
 
 * Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
 
-c7d165a Graveyard: Move to AndroidX
-
-* Repository: https://github.com/FreakyOS/packages_apps_Snap/commits/still_alive
-
-86a6c98 Snap: remove duplicate pause button
+04c09ac FreakyGraveyard: Make QS blur togglable [2/2]
+71d3af5 FreakyGraveyard: Allow to disable Lockscreen Media Art [2/2]
+4d88f7d FreakyGraveyard: Add Pocket judge
+34a6339 FreakyGraveyard: incall vibration options [3/3]
 
 * Repository: https://github.com/FreakyOS/packages_services_Telecomm/commits/still_alive
 
-ac9464a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/services/Telecomm into still_alive
+d22b79e Telecomm: incall vibration options [2/3]
 
-* Repository: https://github.com/FreakyOS/system_bt/commits/still_alive
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
 
-a224308 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/bt into still_alive
+0fddcb6 vendor: Add sysfs permissions for pocket bridge
 
-* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
+=======================
+     2020/06/27
+=======================
 
-3ac334c Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/core into still_alive
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
 
-* Repository: https://github.com/FreakyOS/system_sepolicy/commits/still_alive
+9f7b036 core: Volume wake/skip track: Make it work independently
+0d50e4d power: Allow using vibration without sounds
+fedd9c1 SystemUI: onLongClick Settings button for FreakyGraveyardSettings
+17ad535 base: SystemUI: header image tweaks aka the big marginator
+88893f9 SystemUI: Make autobrightness off toggle accent coloured
 
-45cc60a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/sepolicy into still_alive
+* Repository: https://github.com/LineageOS/android_hardware_qcom_audio/commits/lineage-17.1-caf-msm8998
+
+9e2e494 hal: msm8974: Use stereo recording depending on camera orientation
+
+* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
+
+7cf95a4 Revert "FreakyGraveyard: Add battery styles and customizations for Android 10 [2/2]"
+
+* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
+
+5885842 OmniStyle: Refractor for FreakyOS
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+535b859 vendor: SystemUI: Tint the edge effect with the default color accent
 
 
 =======================
-     2020/06/05
+     2020/06/26
 =======================
 
-* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
+* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
 
-6cd5d3c Automatic translation import
+f25eabd manifest: qs status bar header image [4/4]
 
-* Repository: https://github.com/PixelExperience/packages_apps_Recorder/commits/ten
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
 
-8aed7e6 Merge "Show video thumbnail on notification when record complete" into ten
-
-
-=======================
-     2020/06/04
-=======================
-
-* Repository: https://github.com/PixelExperience/art/commits/ten
-
-6d0dcfe Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/art into HEAD
-
-* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
-
-2e531e6 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/bootable/recovery into HEAD
-
-* Repository: https://github.com/PixelExperience/development/commits/ten
-
-73aec18 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/development into HEAD
-
-* Repository: https://github.com/PixelExperience/external_libhevc/commits/ten
-
-2323ab6 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/external/libhevc into HEAD
-
-* Repository: https://github.com/PixelExperience/frameworks_opt_net_wifi/commits/ten
-
-fce8150 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/opt/net/wifi into HEAD
-
-* Repository: https://github.com/PixelExperience/hardware_interfaces/commits/ten
-
-10d072a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/interfaces into HEAD
-
-* Repository: https://github.com/PixelExperience/hardware_nxp_nfc/commits/ten
-
-c92e466 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/nxp/nfc into HEAD
-
-* Repository: https://github.com/PixelExperience/hardware_qcom_audio/commits/ten
-
-f8d9a0e Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/audio into HEAD
-
-* Repository: https://github.com/PixelExperience/hardware_qcom_display/commits/ten
-
-6b02f5d Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/display into HEAD
-
-* Repository: https://github.com/PixelExperience/hardware_qcom_media/commits/ten
-
-5cf1d12 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/media into HEAD
-
-* Repository: https://github.com/PixelExperience/hardware_qcom_sdm845_media/commits/ten
-
-1751d4e Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/sdm845/media into HEAD
-
-* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
-
-9f5f074 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Bluetooth into HEAD
-
-* Repository: https://github.com/PixelExperience/packages_apps_CertInstaller/commits/ten
-
-b067962 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/CertInstaller into HEAD
-
-* Repository: https://github.com/PixelExperience/packages_apps_DocumentsUI/commits/ten
-
-a624c57 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/DocumentsUI into HEAD
-
-* Repository: https://github.com/PixelExperience/packages_apps_Nfc/commits/ten
-
-19eec7a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Nfc into HEAD
-
-* Repository: https://github.com/PixelExperience/packages_apps_Traceur/commits/ten
-
-45ebdb6 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Traceur into HEAD
-
-* Repository: https://github.com/PixelExperience/packages_modules_CaptivePortalLogin/commits/ten
-
-38e8ddf Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/modules/CaptivePortalLogin into HEAD
-
-* Repository: https://github.com/PixelExperience/packages_providers_DownloadProvider/commits/ten
-
-3fbe4b7 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/providers/DownloadProvider into HEAD
-
-* Repository: https://github.com/PixelExperience/packages_providers_MediaProvider/commits/ten
-
-c4264ea Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/providers/MediaProvider into HEAD
-
-* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
-
-2d1aa3a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/services/BuiltInPrintService into HEAD
-
-* Repository: https://github.com/PixelExperience/platform_testing/commits/ten
-
-79ea041 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/platform_testing into HEAD
-
-* Repository: https://github.com/PixelExperience/system_extras/commits/ten
-
-7fcb234 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/extras into HEAD
-
-* Repository: https://github.com/PixelExperience/system_vold/commits/ten
-
-ee29b67 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/vold into HEAD
-
+7b9bcf8 vendor:  qs status bar header image [3/4]
 
 =======================
-     2020/06/03
+     2020/06/22
 =======================
-
-* Repository: https://github.com/PixelExperience/external_libtextclassifier/commits/ten
-
-bfc19c6 Update text classifier models
-
-* Repository: https://github.com/PixelExperience/frameworks_opt_timezonepicker/commits/ten
-
-66a958c Restore time_zone_item ripple effect
-
-* Repository: https://github.com/PixelExperience/packages_apps_Camera2/commits/ten
-
-ed448ff Camera2: Fix crash when app requesting intent has requested no permisions.
-
-* Repository: https://github.com/PixelExperience/packages_apps_Stk/commits/ten
-
-32a9973 Remove deprecated unenforced permission from manifest.
-
-* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
-
-0bed67a Adapt to PixelExperience
 
 * Repository: https://github.com/LineageOS/android_packages_inputmethods_LatinIME/commits/lineage-17.1
 
-448651d Update Bulgarian wordlist
+10b148a Automatic translation import
+
+* Repository: https://github.com/LineageOS/android_packages_resources_devicesettings/commits/lineage-17.1
+
+7a3adac Automatic translation import
+
 
 =======================
-     2020/05/29
+     2020/06/21
 =======================
 
-* Repository: https://github.com/FreakyOS/packages_apps_Updater/commits/still_alive
+* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
 
-98a97ea Updater: Refractor for FreakyOS
+93325f2 Settings: rework on the team info
+
+=======================
+     2020/06/16
+=======================
+
+* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
+
+45c7858 Automatic translation import
 
 
