@@ -20,6 +20,13 @@
             "codename": "a3xelte",
             "maintainer": "bunnyy",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQF9fXvhsM-gmQZzAG15iM8HdP5_xkTGenzkw&usqp=CAU"
+        },
+        {
+            "name": "Xiaomi Redmi Note 6 Pro",
+            "brand": "Xiaomi",
+            "codename": "tulip",
+            "maintainer": "Niteshkumar",
+            "image": "https://img.timesnownews.com/story/1544521578-Xiaomi_Redmi_Note_6_Pro_colours.jpg"
         }
     ]
 }
