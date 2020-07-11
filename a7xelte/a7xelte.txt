@@ -1,115 +1,147 @@
 =======================
+     2020/07/11
+=======================
+
+* Repository: https://github.com/FreakyOS/build/commits/still_alive
+
+ddc2c01 Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/build into still_alive
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+2993373 SystemUI: Rounded Corner: Code improvement and clean up
+
+* Repository: https://github.com/FreakyOS/frameworks_native/commits/still_alive
+
+83ce537 Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/frameworks/native into still_alive
+
+* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+
+8f76612 manifest: do not track LatinIME
+
+* Repository: https://github.com/FreakyOS/packages_apps_FMRadio/commits/still_alive
+
+d027760 FMRadio: Automatic translation import
+
+* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
+
+e174ca6 Graveyard: Make roaming indicator optional [2/2]
+
+* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
+
+64baf5f Settings: rework on maintainer string
+e529745 Settings: Fix nuked FreakyOS logo controller
+
+* Repository: https://github.com/FreakyOS/packages_apps_Snap/commits/still_alive
+
+7a56bd0 Snap: Report device orientation to Audio HAL
+
+* Repository: https://github.com/FreakyOS/packages_services_Telecomm/commits/still_alive
+
+4ae2da5 Bluetooth: Support to know if there is High Def call
+
+* Repository: https://github.com/FreakyOS/packages_services_Telephony/commits/still_alive
+
+54a77b1 Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/packages/services/Telephony into still_alive
+
+* Repository: https://github.com/FreakyOS/system_bt/commits/still_alive
+
+809adcb GAP: Reset bondingInitiatedLocally flag(3/3)
+
+* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
+
+2e3494b libcutils: change trace file error to verbose
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+bd337fe vendor: build FaceUnlock only for arm64 devices
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_packages_apps_Bluetooth/commits/lineage-17.1
+
+2ca8b3c Clean up duplicate uses-permission entries
+
+
+=======================
+     2020/07/10
+=======================
+
+* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
+
+133e3b7 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/frameworks_opt_net_wifi/commits/ten
+
+729408e wifi: Add StaState API
+
+* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
+
+fd54269 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
+
+5ac7363 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
+
+5de92bd Automatic translation import
+
+
+=======================
+     2020/07/09
+=======================
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_audio/commits/ten
+
+3b99c72 hal: msm8974: Use stereo recording depending on camera orientation
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sdm845_display/commits/ten
+
+92531ae gralloc: Add option for unaligned YCrCb pixel format
+
+* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
+
+6d10226 Stub TWS related APIs
+
+* Repository: https://github.com/PixelExperience/vendor_qcom_opensource_fm-commonsys/commits/ten
+
+a8ba5e8 Automatic translation import
+
+=======================
+     2020/06/30
+=======================
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_system_bt/commits/lineage-17.1
+
+af7dfee AVRCP: Ignore AVRCP version when registering absolute volume feature
+
+
+=======================
      2020/06/29
 =======================
 
 * Repository: https://github.com/FreakyOS/device_custom_sepolicy/commits/still_alive
 
-931a2ab sepolicy: Add pocket judge selinux policy
+513d3cc common: Move aux camera whitelist prop to vendor
 
-* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
 
-29d28a5 Fix bootanimation stack overflow
-6e46ba0 base: Animate OOS dismiss
-b9dbef0 base: Update QS blur keyguard check
-958d36d base: Make QS blur togglable [1/2]
-ad9022f base: Blur behind QS
-2338008 base: Allow to disable Lockscreen Media Art [1/2]
-376829a pocket: Reduce sleep timeout for pocket lock
-8b35c46 PocketLock: Remove animations
-27d2c00 pocket: Use MD2 lock drawable
-2383e43f Pocket lock improvements
-e673152 pocket: Fix pocket lock view for display cutouts
-ea198b5 pocket: Adjust sleep timeout for pocket lock view to 10 secs
-ba51507 Pocket: introduce pocket bridge
-ca9bc5b PocketService: Adjust light sensor rate to 400ms
-b19b28c pocket: Add hardware acceleration and properly maintain SYSTEM_UI flags
-392640f core: Pocket: policy: introduce pocket lock
-538a32d core: Pocket: introduce pocket judge
-8fc48d8 base: incall vibration options [1/3]
+6b84249 Revert "libcameraservice: add TARGET_CAMERA_NEEDS_CLIENT_INFO"
 
-* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
+* Repository: https://github.com/FreakyOS/frameworks_opt_telephony/commits/still_alive
 
-04c09ac FreakyGraveyard: Make QS blur togglable [2/2]
-71d3af5 FreakyGraveyard: Allow to disable Lockscreen Media Art [2/2]
-4d88f7d FreakyGraveyard: Add Pocket judge
-34a6339 FreakyGraveyard: incall vibration options [3/3]
+7309031 Avoid SubscriptionManager#getUriForSubscriptionId calls with invalid subIds
 
-* Repository: https://github.com/FreakyOS/packages_services_Telecomm/commits/still_alive
+* Repository: https://github.com/FreakyOS/hardware_custom_interfaces/commits/still_alive
 
-d22b79e Telecomm: incall vibration options [2/3]
-
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-0fddcb6 vendor: Add sysfs permissions for pocket bridge
-
-=======================
-     2020/06/27
-=======================
-
-* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
-
-9f7b036 core: Volume wake/skip track: Make it work independently
-0d50e4d power: Allow using vibration without sounds
-fedd9c1 SystemUI: onLongClick Settings button for FreakyGraveyardSettings
-17ad535 base: SystemUI: header image tweaks aka the big marginator
-88893f9 SystemUI: Make autobrightness off toggle accent coloured
-
-* Repository: https://github.com/LineageOS/android_hardware_qcom_audio/commits/lineage-17.1-caf-msm8998
-
-9e2e494 hal: msm8974: Use stereo recording depending on camera orientation
-
-* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
-
-7cf95a4 Revert "FreakyGraveyard: Add battery styles and customizations for Android 10 [2/2]"
+cf37ff4 gnss-legacy: Bring back GLONASS
 
 * Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
 
-5885842 OmniStyle: Refractor for FreakyOS
+5b50e2e OmniStyle: Refractor for FreakyOS
 
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+* Repository: https://github.com/FreakyOS/packages_apps_WallBucket/commits/still_alive
 
-535b859 vendor: SystemUI: Tint the edge effect with the default color accent
+71d5a90 WallBucket: Enable appwide hardware acceleration
 
+* Repository: https://github.com/FreakyOS/system_sepolicy/commits/still_alive
 
-=======================
-     2020/06/26
-=======================
-
-* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
-
-f25eabd manifest: qs status bar header image [4/4]
-
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-7b9bcf8 vendor:  qs status bar header image [3/4]
-
-=======================
-     2020/06/22
-=======================
-
-* Repository: https://github.com/LineageOS/android_packages_inputmethods_LatinIME/commits/lineage-17.1
-
-10b148a Automatic translation import
-
-* Repository: https://github.com/LineageOS/android_packages_resources_devicesettings/commits/lineage-17.1
-
-7a3adac Automatic translation import
-
-
-=======================
-     2020/06/21
-=======================
-
-* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
-
-93325f2 Settings: rework on the team info
-
-=======================
-     2020/06/16
-=======================
-
-* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
-
-45c7858 Automatic translation import
-
-
+f1751ef Export missing audio volume properties

@@ -1,13 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1593394035,
-      "filename": "FreakyOS_ver[X]-a7xelte-20200629-0128-OFFICIAL.zip",
-      "id": "9bb7a5b40e7acea79fdcbbe6d7ffefba",
+      "datetime": 1594448939,
+      "filename": "FreakyOS_ver[X]-a7xelte-20200711-0629-OFFICIAL.zip",
+      "id": "7fd41565163cf61d6569461b559520e3",
       "romtype": "OFFICIAL",
-      "size": 527823701,
-      "url": "https://sourceforge.net/projects/freakyos/files/a7xelte/FreakyOS_ver[X]-a7xelte-20200629-0128-OFFICIAL.zip/download",
+      "size": 534383835,
+      "url": "https://sourceforge.net/projects/freakyos/files/a7xelte/FreakyOS_ver[X]-a7xelte-20200711-0629-OFFICIAL.zip/download",
       "version": "ver[X]"
     }
   ]
 }
+
