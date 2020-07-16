@@ -1,110 +1,185 @@
 =======================
-     2020/06/28
+     2020/07/16
 =======================
 
+* Repository: https://github.com/FreakyOS/device_custom_sepolicy/commits/still_alive
 
-=======================
-     2020/06/27
-=======================
+715dcde sepolicy: Add rules for FPS info
 
-* Repository: https://github.com/LineageOS/android_hardware_qcom_audio/commits/lineage-17.1-caf-msm8998
+* Repository: https://github.com/FreakyOS-Devices/android_device_xiaomi_sdm660-common/commits/still_alive
 
-9e2e494 hal: msm8974: Use stereo recording depending on camera orientation
+784cff2 tulip: Address FPS Info denials
 
-* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
+* Repository: https://github.com/FreakyOS-Devices/device_xiaomi_tulip/commits/still_alive
 
-7cf95a4 Revert "FreakyGraveyard: Add battery styles and customizations for Android 10 [2/2]"
+452c6db tulip:overlay: Add FPS info path
 
-* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
 
-5885842 OmniStyle: Refractor for FreakyOS
+27e0e2e base: Add GoogleSans font overlay
+6fc1704 Add OnePlus Slate font [1/2]
+493325e SystemUI: FPS Info improvements
+8781172 SystemUI: FPS Info Overlay & Tile
+
+* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
+
+3710b3a Settings: Use global fonts in styles
 
 * Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
 
-084f5f3 vendor: SystemUI: Tint the edge effect with the default color accent
+0d54b3e vendor: rework on signing keys flag logic
+4067c4c vendor: Target gapps arch instead of platform arch for including the face unlock
 
 
 =======================
-     2020/06/26
+     2020/07/15
+=======================
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+1c7cba0 freakystyle: Add Oneplus Slate font [2/2]
+
+=======================
+     2020/07/13
+=======================
+
+* Repository: https://github.com/FreakyOS/build/commits/still_alive
+
+6c58df1 build: re-add backup tools
+
+* Repository: https://github.com/xiaomi-sdm660/android_kernel_xiaomi_sdm660/commits/master
+
+0e4718b net: wireguard: update wireguard to version 1.0.20200712
+
+* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+
+6781b93 manifest: link our gerrit
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+f4b34a4 Merge "vendor: rework on the releasekey flag" into still_alive
+
+* Repository: https://github.com/niteshkumar2000/proprietary_vendor_xiaomi/commits/still_alive
+
+6855d7d sdm660-common: Update Graphics (SDM) - from LA.UM.8.2.r1-06200-sdm660.0
+
+
+=======================
+     2020/07/12
+=======================
+
+* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
+
+c90076f Omnistyle: Add more scenery headers
+
+
+=======================
+     2020/07/11
+=======================
+
+* Repository: /commits/still_alive
+
+46605a1 WallBucket: clean and fix up gitignore
+a09076c WallBucket: clean up & migrate the package to androidx android packages
+
+
+=======================
+     2020/07/10
 =======================
 
 * Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
 
-88893f9 SystemUI: Make autobrightness off toggle accent coloured
+2993373 SystemUI: Rounded Corner: Code improvement and clean up
 
-* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+* Repository: https://github.com/FreakyOS/frameworks_native/commits/still_alive
 
-f25eabd manifest: qs status bar header image [4/4]
+83ce537 Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/frameworks/native into still_alive
 
+* Repository: https://github.com/FreakyOS/packages_apps_FMRadio/commits/still_alive
 
-=======================
-     2020/06/25
-=======================
+d027760 FMRadio: Automatic translation import
 
+* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
 
-=======================
-     2020/06/24
-=======================
-
-
-=======================
-     2020/06/23
-=======================
-
-
-=======================
-     2020/06/22
-=======================
-
-* Repository: https://github.com/LineageOS/android_packages_inputmethods_LatinIME/commits/lineage-17.1
-
-10b148a Automatic translation import
-
-* Repository: https://github.com/LineageOS/android_packages_resources_devicesettings/commits/lineage-17.1
-
-7a3adac Automatic translation import
-
-
-=======================
-     2020/06/21
-=======================
-
-
-=======================
-     2020/06/20
-=======================
+e174ca6 Graveyard: Make roaming indicator optional [2/2]
 
 * Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
 
-93325f2 Settings: rework on the team info
+cdf25dc Settings: rework on maintainer string
+
+* Repository: https://github.com/FreakyOS/packages_apps_Snap/commits/still_alive
+
+7a56bd0 Snap: Report device orientation to Audio HAL
+
+* Repository: https://github.com/FreakyOS/packages_services_Telecomm/commits/still_alive
+
+4ae2da5 Bluetooth: Support to know if there is High Def call
+
+* Repository: https://github.com/FreakyOS/packages_services_Telephony/commits/still_alive
+
+54a77b1 Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/packages/services/Telephony into still_alive
+
+* Repository: https://github.com/FreakyOS/system_bt/commits/still_alive
+
+809adcb GAP: Reset bondingInitiatedLocally flag(3/3)
+
+* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
+
+2e3494b libcutils: change trace file error to verbose
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_packages_apps_Bluetooth/commits/lineage-17.1
+
+2ca8b3c Clean up duplicate uses-permission entries
 
 
 =======================
-     2020/06/19
+     2020/07/09
 =======================
 
+* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
 
-=======================
-     2020/06/18
-=======================
+133e3b7 Automatic translation import
 
+* Repository: https://github.com/PixelExperience/frameworks_opt_net_wifi/commits/ten
 
-=======================
-     2020/06/17
-=======================
+729408e wifi: Add StaState API
 
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_audio/commits/ten
 
-=======================
-     2020/06/16
-=======================
+3b99c72 hal: msm8974: Use stereo recording depending on camera orientation
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sdm845_display/commits/ten
+
+92531ae gralloc: Add option for unaligned YCrCb pixel format
+
+* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
+
+6d10226 Stub TWS related APIs
 
 * Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
 
-45c7858 Automatic translation import
+fd54269 Automatic translation import
 
+* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
+
+5ac7363 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
+
+5de92bd Automatic translation import
+
+* Repository: https://github.com/PixelExperience/vendor_qcom_opensource_fm-commonsys/commits/ten
+
+a8ba5e8 Automatic translation import
 
 =======================
-     2020/06/15
+     2020/07/03
 =======================
+
+* Repository: /commits/still_alive
+
+43eaada WallBucket: Testing New UI
+9df2173 initial commit
+ae6337b Initial commit
 
 
