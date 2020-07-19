@@ -5,21 +5,21 @@
             "brand": "Samsung",
             "codename": "a7xelte",
             "maintainer": "bunnyy",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQF9fXvhsM-gmQZzAG15iM8HdP5_xkTGenzkw&usqp=CAU"
+            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/a3xelte.png"
         },
         {
             "name": "Samsung A5 (A510XX)",
             "brand": "Samsung",
             "codename": "a5xelte",
             "maintainer": "bunnyy",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQF9fXvhsM-gmQZzAG15iM8HdP5_xkTGenzkw&usqp=CAU"
+            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/a5xelte.png"
         },
         {
             "name": "Samsung A3 (A310XX)",
             "brand": "Samsung",
             "codename": "a3xelte",
             "maintainer": "bunnyy",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQF9fXvhsM-gmQZzAG15iM8HdP5_xkTGenzkw&usqp=CAU"
+            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/a3xelte.png"
         },
         {
             "name": "Xiaomi Redmi Note 6 Pro",
