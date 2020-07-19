@@ -27,6 +27,13 @@
             "codename": "tulip",
             "maintainer": "Niteshkumar",
             "image": "https://img.timesnownews.com/story/1544521578-Xiaomi_Redmi_Note_6_Pro_colours.jpg"
+        },
+        {
+            "name": "Xiaomi Redmi Note 7 Pro",
+            "brand": "Xiaomi",
+            "codename": "violet",
+            "maintainer": "Jeivardan",
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/violet.png"
         }
     ]
 }
