@@ -55,7 +55,14 @@
             "codename": "ysl",
             "maintainer": "Amith Acharya",
             "image": "https://global.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1528356164.70662753.jpg"
-        }
+        },
+        {
+            "name": "Asus Zenfone Max M1",
+            "brand": "Asus",
+            "codename": "X00P",
+            "maintainer": "INDER",
+            "image": "https://www.asus.com/media/IN/products/Av2HDWl1WLs1j7bm/P_setting_xxx_0_90_end_300.png"
+	}
     ]
 }
 
