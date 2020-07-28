@@ -40,15 +40,15 @@
             "brand": "Xiaomi",
             "codename": "santoni",
             "maintainer": "Amith Acharya",
-            "image": "https://github.com/PixelExperience/official_devices/blob/master/images/santoni.png"
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/santoni.png"
         },
         {
             "name": "Xiaomi Redmi Note 8",
             "brand": "Xiaomi",
             "codename": "ginkgo",
             "maintainer": "Amith Acharya",
-            "image": "https://github.com/PixelExperience/official_devices/blob/master/images/ginkgo.png"
-        }
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/ginkgo.png"
+        },
     ]
 }
 
