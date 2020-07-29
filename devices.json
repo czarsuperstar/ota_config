@@ -69,6 +69,13 @@
             "codename": "begonia",
             "maintainer": "Itachi Uchiha",
             "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/begonia.png"
+        },
+        {
+            "name": "Asus Zenfone Lite L1",
+            "brand": "Asus",
+            "codename": "X00R",
+            "maintainer": "INDER",
+            "image": "https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-lite-l1-za551kl-4g022in-2.jpg"
         }
     ]
 }
