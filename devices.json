@@ -68,7 +68,10 @@
             "brand": "Xiaomi",
             "codename": "begonia",
             "maintainer": "Itachi Uchiha",
-            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/begonia.png"
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/begonia.png",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=10920239",
+            "telegram_link": "https://t.me/KonohaHokage",
+            "github_link": "https://github.com/iitachiuchiha"
         },
         {
             "name": "Asus Zenfone Lite L1",
