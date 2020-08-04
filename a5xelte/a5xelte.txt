@@ -1,106 +1,106 @@
 =======================
-     2020/06/29
+     2020/08/04
 =======================
 
-* Repository: https://github.com/FreakyOS/build/commits/still_alive
+* Repository: /commits/still_alive
 
-762287f build: check_boot_jars: Whitelist lineage touch HAL
+19acd95 updated ui
 
-* Repository: https://github.com/FreakyOS/device_custom_sepolicy/commits/still_alive
 
-513d3cc common: Move aux camera whitelist prop to vendor
+=======================
+     2020/08/03
+=======================
 
-* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
 
-6b84249 Revert "libcameraservice: add TARGET_CAMERA_NEEDS_CLIENT_INFO"
+=======================
+     2020/08/02
+=======================
 
-* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
 
-fc2ee35 WifiManager: Add StaState API
-
-* Repository: https://github.com/FreakyOS/frameworks_native/commits/still_alive
-
-b2e2402 surfaceflinger: change usageBits type to uint64_t
-
-* Repository: https://github.com/FreakyOS/frameworks_opt_telephony/commits/still_alive
-
-7309031 Avoid SubscriptionManager#getUriForSubscriptionId calls with invalid subIds
-
-* Repository: https://github.com/FreakyOS/hardware_custom_interfaces/commits/still_alive
-
-cf37ff4 gnss-legacy: Bring back GLONASS
-
-* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
-
-11668d5 Merge "Revert "manifest: [TEMP] Track some caf repos"" into still_alive
-
-* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
-
-eabef9b FreakyGraveyard: Make QS blur togglable [2/2]
-
-* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
-
-5b50e2e OmniStyle: Refractor for FreakyOS
-
-* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
-
-100e5c6 Automatic translation import
-
-* Repository: https://github.com/FreakyOS/packages_apps_WallBucket/commits/still_alive
-
-71d5a90 WallBucket: Enable appwide hardware acceleration
-
-* Repository: https://github.com/FreakyOS/packages_services_Telecomm/commits/still_alive
-
-d22b79e Telecomm: incall vibration options [2/3]
-
-* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
-
-ec091df Fine tune blkio setting to improve boot time
-
-* Repository: https://github.com/FreakyOS/system_sepolicy/commits/still_alive
-
-f1751ef Export missing audio volume properties
+=======================
+     2020/08/01
+=======================
 
 * Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
 
-7da0623 kernel: Replace KERNEL_LD with KERNEL_SUPPORTS_LLD
-
-=======================
-     2020/06/23
-=======================
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_audio/commits/ten
-
-e7da55b Merge tag 'LA.UM.6.4.r1-05700-8x98.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/audio into ten
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_display/commits/ten
-
-b91b0c9 Merge tag 'LA.UM.8.4.r1-05700-8x98.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/display into ten
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_media/commits/ten
-
-49b5ed0 Merge tag 'LA.UM.8.4.r1-05700-8x98.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/media into ten
+ca946df vendor: Build faceunlock if detect arm64
 
 
 =======================
-     2020/06/22
+     2020/07/31
 =======================
 
-* Repository: https://github.com/LineageOS/android_packages_inputmethods_LatinIME/commits/lineage-17.1
-
-10b148a Automatic translation import
-
-* Repository: https://github.com/LineageOS/android_packages_resources_devicesettings/commits/lineage-17.1
-
-7a3adac Automatic translation import
 
 =======================
-     2020/06/16
+     2020/07/30
 =======================
 
-* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
 
-45c7858 Automatic translation import
+=======================
+     2020/07/29
+=======================
+
+
+=======================
+     2020/07/28
+=======================
+
+* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
+
+969ecd3 UI changes for PixelExperience
+
+* Repository: /commits/still_alive
+
+6a7ba7b Settings: Graveyard: Integrate our new Graveyard
+
+* Repository: /commits/still_alive
+
+82a7a04 WallBucket: Welcome our new WallBucket
+
+
+=======================
+     2020/07/27
+=======================
+
+
+=======================
+     2020/07/26
+=======================
+
+
+=======================
+     2020/07/25
+=======================
+
+
+=======================
+     2020/07/24
+=======================
+
+* Repository: https://github.com/FreakyOS-Devices/device_samsung_a5xelte/commits/still_alive
+
+70e294c a5xelte: Refractor for FreakyOS
+
+
+=======================
+     2020/07/23
+=======================
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+fe67caf SystemUI: VolumePanel: Version 1.1
+
+
+=======================
+     2020/07/22
+=======================
+
+* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
+
+c77b241 Check Null-safeness when switching optional-codecs state
+
+* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
+
+b03dd6e OmniStyle: Added One Piece headers
 
 
