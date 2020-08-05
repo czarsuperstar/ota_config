@@ -79,6 +79,13 @@
             "codename": "X00R",
             "maintainer": "INDER",
             "image": "https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-lite-l1-za551kl-4g022in-2.jpg"
+        },
+        {
+            "name": "Realme 5 Pro",
+            "brand": "Realme",
+            "codename": "RMX1971",
+            "maintainer": "TestoBuzz",
+            "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-5-pro-rmx1971-2.jpg"
         }
     ]
 }
