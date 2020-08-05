@@ -104,6 +104,13 @@
             "xda_link": "https://forum.xda-developers.com/member.php?u=9247195",
             "telegram_link": "https://t.me/TestoBuzz",
             "github_link": "https://github.com/testobuzz"
+        },
+	{
+            "name": "Xiaomi Redmi Note 5 AI/Pro",
+            "brand": "Xiaomi",
+            "codename": "whyred",
+            "maintainer": "Jhonse02",
+            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/whyred.png"
         }
     ]
 }
