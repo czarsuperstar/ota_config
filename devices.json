@@ -40,21 +40,30 @@
             "brand": "Xiaomi",
             "codename": "santoni",
             "maintainer": "Amith Acharya",
-            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/santoni.png"
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/santoni.png",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
+            "telegram_link": "https://t.me/amith_acharya",
+            "github_link": "https://github.com/amith07"
         },
         {
             "name": "Xiaomi Redmi Note 8",
             "brand": "Xiaomi",
             "codename": "ginkgo",
             "maintainer": "Amith Acharya",
-            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/ginkgo.png"
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/ginkgo.png",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
+            "telegram_link": "https://t.me/amith_acharya",
+            "github_link": "https://github.com/amith07"
         },
         {
             "name": "Xiaomi Redmi Y2",
             "brand": "Xiaomi",
             "codename": "ysl",
             "maintainer": "Amith Acharya",
-            "image": "https://global.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1528356164.70662753.jpg"
+            "image": "https://global.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1528356164.70662753.jpg",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
+            "telegram_link": "https://t.me/amith_acharya",
+            "github_link": "https://github.com/amith07"
         },
         {
             "name": "Asus Zenfone Max M1",
