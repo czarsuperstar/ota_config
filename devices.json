@@ -70,7 +70,10 @@
             "brand": "Asus",
             "codename": "X00P",
             "maintainer": "INDER",
-            "image": "https://www.asus.com/media/IN/products/Av2HDWl1WLs1j7bm/P_setting_xxx_0_90_end_300.png"
+            "image": "https://www.asus.com/media/IN/products/Av2HDWl1WLs1j7bm/P_setting_xxx_0_90_end_300.png",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=9423214",
+            "telegram_link": "https://t.me/ishant86",
+            "github_link": "https://github.com/inder864"
 	},
 	{
             "name": "Xiaomi Redmi Note 8 Pro",
@@ -87,14 +90,20 @@
             "brand": "Asus",
             "codename": "X00R",
             "maintainer": "INDER",
-            "image": "https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-lite-l1-za551kl-4g022in-2.jpg"
+            "image": "https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-lite-l1-za551kl-4g022in-2.jpg",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=9423214",
+            "telegram_link": "https://t.me/ishant86",
+            "github_link": "https://github.com/inder864"
         },
         {
             "name": "Realme 5 Pro",
             "brand": "Realme",
             "codename": "RMX1971",
             "maintainer": "TestoBuzz",
-            "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-5-pro-rmx1971-2.jpg"
+            "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-5-pro-rmx1971-2.jpg",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=9247195",
+            "telegram_link": "https://t.me/TestoBuzz",
+            "github_link": "https://github.com/testobuzz"
         }
     ]
 }
