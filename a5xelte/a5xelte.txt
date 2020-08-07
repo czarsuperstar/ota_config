@@ -1,15 +1,67 @@
 =======================
+     2020/08/07
+=======================
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+3b80c9b Adds Zygote policy flags to control how applications are launched
+
+* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
+
+7df13a9 Allow to drop existing fd cache of cgroup path
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+9ad5498 vendor: freakystyle: Migrate to Google apps from AOSP apps
+f4feda1 devices: Add more official devices
+
+
+=======================
+     2020/08/06
+=======================
+
+* Repository: https://github.com/FreakyOS/build/commits/still_alive
+
+7fb11fd Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/build into still_alive
+
+* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+
+980b99e Manifest for Android 10.0.0 Release 41 (QQ3A.200805.001)
+
+
+=======================
+     2020/08/05
+=======================
+
+
+=======================
      2020/08/04
 =======================
 
+* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
+
+3bd228e Enable downgrade checks only on incremental packages
+
+* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
+
+a8aa3e2 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/frameworks/av into still_alive
+
 * Repository: /commits/still_alive
 
-19acd95 updated ui
+086fa9f Update AndroidManifest.xml
+
+* Repository: https://github.com/FreakyOS/packages_services_Telephony/commits/still_alive
+
+2e5d8d4 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/packages/services/Telephony into still_alive
 
 
 =======================
      2020/08/03
 =======================
+
+* Repository: /commits/still_alive
+
+19acd95 updated ui
 
 
 =======================
@@ -20,10 +72,6 @@
 =======================
      2020/08/01
 =======================
-
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-ca946df vendor: Build faceunlock if detect arm64
 
 
 =======================
@@ -45,9 +93,10 @@ ca946df vendor: Build faceunlock if detect arm64
      2020/07/28
 =======================
 
-* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
 
-969ecd3 UI changes for PixelExperience
+=======================
+     2020/07/27
+=======================
 
 * Repository: /commits/still_alive
 
@@ -59,11 +108,6 @@ ca946df vendor: Build faceunlock if detect arm64
 
 
 =======================
-     2020/07/27
-=======================
-
-
-=======================
      2020/07/26
 =======================
 
@@ -71,36 +115,5 @@ ca946df vendor: Build faceunlock if detect arm64
 =======================
      2020/07/25
 =======================
-
-
-=======================
-     2020/07/24
-=======================
-
-* Repository: https://github.com/FreakyOS-Devices/device_samsung_a5xelte/commits/still_alive
-
-70e294c a5xelte: Refractor for FreakyOS
-
-
-=======================
-     2020/07/23
-=======================
-
-* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
-
-fe67caf SystemUI: VolumePanel: Version 1.1
-
-
-=======================
-     2020/07/22
-=======================
-
-* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
-
-c77b241 Check Null-safeness when switching optional-codecs state
-
-* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
-
-b03dd6e OmniStyle: Added One Piece headers
 
 
