@@ -1,14 +1,62 @@
 =======================
-     2020/08/06
+     2020/08/09
+=======================
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+2db90f1 Disable Notifications vibration [1/2]
+
+* Repository: /commits/still_alive
+
+e5ccee6 Settings: Redirect FreakyOS logo to our website
+75692d7 assests: add missing info
+2afd20b Developer options toast insulter
+
+
+=======================
+     2020/08/08
 =======================
 
 * Repository: https://github.com/FreakyOS/build/commits/still_alive
 
-7fb11fd Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/build into still_alive
+0ef73bb build: releasetools: replace ASCII banner with a new banner
 
-* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+* Repository: https://github.com/LineageOS/android_hardware_qcom_display/commits/lineage-17.1-caf-sm8250
 
-128d624 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/frameworks/base into still_alive
+4ab176b Add C2D_COLOR_FORMAT_420_P010 to C2D_YUV_FORMAT
+
+* Repository: /commits/still_alive
+
+9fd337a Allows to launch only authenticator owned activities
+fe7dafd assets: Team: Update coordinator info & Some misc changes
+e82146b assets: team: Add our coordinators!
+290b2e0 assets: Added maintainer info for X00P/X00R
+5f7f563 team: update team details!
+36b4d0b assets: Added Realme 5 Pro
+e69c294 assets: Added ginkgo/santoni/ysl
+33cced1 assets: Added begonia
+
+* Repository: https://github.com/FreakyOS/packages_apps_Updater/commits/still_alive
+
+fca1903 [WIP]Updater: Welcome our New Updater UI
+
+* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
+
+7df13a9 Allow to drop existing fd cache of cgroup path
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+cdc3c11 vendor: Fix the flag for faceunlock
+
+
+=======================
+     2020/08/07
+=======================
+
+
+=======================
+     2020/08/06
+=======================
 
 * Repository: https://github.com/FreakyOS/manifest/commits/still_alive
 
@@ -18,10 +66,6 @@
 =======================
      2020/08/05
 =======================
-
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-dc88c05 vendor: freakystyle: Add prebuilt Google TTS package
 
 
 =======================
@@ -40,10 +84,6 @@ dc88c05 vendor: freakystyle: Add prebuilt Google TTS package
 
 a8aa3e2 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/frameworks/av into still_alive
 
-* Repository: /commits/still_alive
-
-086fa9f Update AndroidManifest.xml
-
 * Repository: https://github.com/FreakyOS/packages_services_Telephony/commits/still_alive
 
 2e5d8d4 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/packages/services/Telephony into still_alive
@@ -57,10 +97,6 @@ a8aa3e2 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platf
 
 3fcacad Merge remote-tracking branch 'upstream/lineage-17.1' into still_alive
 
-* Repository: /commits/still_alive
-
-19acd95 updated ui
-
 
 =======================
      2020/08/02
@@ -71,14 +107,14 @@ a8aa3e2 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platf
      2020/08/01
 =======================
 
+* Repository: https://github.com/xiaomi-sdm660/android_kernel_xiaomi_sdm660/commits/master
+
+2969751 Merge branch 'kernel.lnx.4.4.r38-rel' of https://github.com/android-linux-stable/msm-4.4
+
 
 =======================
      2020/07/31
 =======================
-
-* Repository: https://github.com/xiaomi-sdm660/android_kernel_xiaomi_sdm660/commits/master
-
-2969751 Merge branch 'kernel.lnx.4.4.r38-rel' of https://github.com/android-linux-stable/msm-4.4
 
 
 =======================
@@ -95,11 +131,6 @@ a8aa3e2 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platf
      2020/07/28
 =======================
 
-
-=======================
-     2020/07/27
-=======================
-
 * Repository: /commits/still_alive
 
 6a7ba7b Settings: Graveyard: Integrate our new Graveyard
@@ -110,17 +141,7 @@ a8aa3e2 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platf
 
 
 =======================
-     2020/07/26
-=======================
-
-
-=======================
-     2020/07/25
-=======================
-
-
-=======================
-     2020/07/24
+     2020/07/27
 =======================
 
 
