@@ -1,211 +1,139 @@
 =======================
-     2020/07/18
+     2020/08/09
 =======================
+
+* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
+
+4b6e65b fsupdater: Cleanup and add sha1sumcheck
 
 * Repository: https://github.com/FreakyOS-Devices/device_samsung_a3xelte/commits/still_alive
 
-2b2dcea a3xelte: Refractor for FreakyOS
-
-* Repository: https://github.com/FreakyOS-Devices/device_samsung_a7xelte/commits/still_alive
-
-7b2bf16 a7xelte: Refractor and init tree for FreakyOS
-
-* Repository: https://github.com/FreakyOS-Devices/device_samsung_universal7580-common/commits/still_alive
-
-f1ecf59 universal7580: Refractor for FreakyOS
+3256bac a3xelte: Refractor for FreakyOS
 
 * Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
 
-e04235d base: Add back gesture haptic feedback toggle [1/2]
+2db90f1 Disable Notifications vibration [1/2]
 
-* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
+* Repository: /commits/still_alive
 
-237a476 Graveyard: Signature spoofing [2/2]
-
-* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
-
-4147151 Merge changes I400a0926,I07cf841e,I0573f1b0,I55816ee2 into still_alive
-
-* Repository: https://github.com/FreakyOS/system_netd/commits/still_alive
-
-6e3cbc9 system/netd: Add support for per app network isolation
-
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-e034ff5 vendor: overlay: change default dialer, photos & music app
-
-* Repository: https://github.com/FreakyOS-Devices/vendor_samsung/commits/still_alive
-
-aa90dbf vendor: init vendor blob for a7xelte
+e5ccee6 Settings: Redirect FreakyOS logo to our website
+75692d7 assests: add missing info
 
 
 =======================
-     2020/07/17
-=======================
-
-* Repository: https://github.com/FreakyOS/packages_apps_DeskClock/commits/still_alive
-
-50ae274 DeskClock: Move navigation bar to bottom
-
-* Repository: https://github.com/FreakyOS/packages_apps_Dialer/commits/still_alive
-
-1571c24 Iterate old recordings properly when migrating call recording data.
-
-* Repository: /commits/ten
-
-ebbd670 WiFiExt: remove WiFiExt for arm devices
-
-
-=======================
-     2020/07/16
-=======================
-
-
-=======================
-     2020/07/15
-=======================
-
-
-=======================
-     2020/07/14
-=======================
-
-* Repository: https://github.com/FreakyOS/device_custom_sepolicy/commits/still_alive
-
-5b63338 sepolicy: Add rules for FPS info
-
-
-=======================
-     2020/07/13
+     2020/08/08
 =======================
 
 * Repository: https://github.com/FreakyOS/build/commits/still_alive
 
-6c58df1 build: re-add backup tools
+0ef73bb build: releasetools: replace ASCII banner with a new banner
 
-* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+* Repository: https://github.com/LineageOS/android_hardware_qcom_display/commits/lineage-17.1-caf-sm8250
 
-6781b93 manifest: link our gerrit
+4ab176b Add C2D_COLOR_FORMAT_420_P010 to C2D_YUV_FORMAT
 
-* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
+* Repository: /commits/still_alive
 
-c90076f Omnistyle: Add more scenery headers
+2afd20b Developer options toast insulter
+9fd337a Allows to launch only authenticator owned activities
+fe7dafd assets: Team: Update coordinator info & Some misc changes
+e82146b assets: team: Add our coordinators!
+290b2e0 assets: Added maintainer info for X00P/X00R
+5f7f563 team: update team details!
+36b4d0b assets: Added Realme 5 Pro
+e69c294 assets: Added ginkgo/santoni/ysl
+33cced1 assets: Added begonia
+
+* Repository: https://github.com/FreakyOS/packages_apps_Updater/commits/still_alive
+
+fca1903 [WIP]Updater: Welcome our New Updater UI
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+cdc3c11 vendor: Fix the flag for faceunlock
 
 
 =======================
-     2020/07/12
+     2020/08/07
+=======================
+
+* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
+
+7df13a9 Allow to drop existing fd cache of cgroup path
+
+
+=======================
+     2020/08/06
+=======================
+
+* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+
+980b99e Manifest for Android 10.0.0 Release 41 (QQ3A.200805.001)
+
+
+=======================
+     2020/08/05
+=======================
+
+
+=======================
+     2020/08/04
+=======================
+
+* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
+
+a8aa3e2 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/frameworks/av into still_alive
+
+* Repository: https://github.com/FreakyOS/packages_services_Telephony/commits/still_alive
+
+2e5d8d4 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/packages/services/Telephony into still_alive
+
+
+=======================
+     2020/08/03
+=======================
+
+
+=======================
+     2020/08/02
+=======================
+
+
+=======================
+     2020/08/01
+=======================
+
+
+=======================
+     2020/07/31
+=======================
+
+
+=======================
+     2020/07/30
+=======================
+
+
+=======================
+     2020/07/29
+=======================
+
+
+=======================
+     2020/07/28
+=======================
+
+
+=======================
+     2020/07/27
 =======================
 
 * Repository: /commits/still_alive
 
-46605a1 WallBucket: clean and fix up gitignore
-a09076c WallBucket: clean up & migrate the package to androidx android packages
+6a7ba7b Settings: Graveyard: Integrate our new Graveyard
 
+* Repository: /commits/still_alive
 
-=======================
-     2020/07/11
-=======================
-
-* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_packages_apps_Bluetooth/commits/lineage-17.1
-
-2ca8b3c Clean up duplicate uses-permission entries
-
-
-=======================
-     2020/07/10
-=======================
-
-* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
-
-133e3b7 Automatic translation import
-
-* Repository: https://github.com/FreakyOS/frameworks_native/commits/still_alive
-
-83ce537 Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/frameworks/native into still_alive
-
-* Repository: https://github.com/FreakyOS/packages_apps_FMRadio/commits/still_alive
-
-d027760 FMRadio: Automatic translation import
-
-* Repository: https://github.com/FreakyOS/packages_apps_Snap/commits/still_alive
-
-7a56bd0 Snap: Report device orientation to Audio HAL
-
-* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
-
-fd54269 Automatic translation import
-
-* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
-
-5ac7363 Automatic translation import
-
-* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
-
-5de92bd Automatic translation import
-
-* Repository: https://github.com/FreakyOS/packages_services_Telecomm/commits/still_alive
-
-4ae2da5 Bluetooth: Support to know if there is High Def call
-
-* Repository: https://github.com/FreakyOS/packages_services_Telephony/commits/still_alive
-
-54a77b1 Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/packages/services/Telephony into still_alive
-
-* Repository: https://github.com/FreakyOS/system_bt/commits/still_alive
-
-809adcb GAP: Reset bondingInitiatedLocally flag(3/3)
-
-* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
-
-2e3494b libcutils: change trace file error to verbose
-
-
-=======================
-     2020/07/09
-=======================
-
-* Repository: https://github.com/PixelExperience/frameworks_opt_net_wifi/commits/ten
-
-729408e wifi: Add StaState API
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_audio/commits/ten
-
-3b99c72 hal: msm8974: Use stereo recording depending on camera orientation
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sdm845_display/commits/ten
-
-92531ae gralloc: Add option for unaligned YCrCb pixel format
-
-* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
-
-6d10226 Stub TWS related APIs
-
-* Repository: https://github.com/PixelExperience/vendor_qcom_opensource_fm-commonsys/commits/ten
-
-a8ba5e8 Automatic translation import
-
-
-=======================
-     2020/07/08
-=======================
-
-* Repository: https://github.com/FreakyOS-Devices/kernel_samsung_universal7580/commits/still_alive
-
-773724a universal7580: a7xelte-dts: remove second touchkey entry
-
-
-=======================
-     2020/07/07
-=======================
-
-
-=======================
-     2020/07/06
-=======================
-
-
-=======================
-     2020/07/05
-=======================
+82a7a04 WallBucket: Welcome our new WallBucket
 
 
