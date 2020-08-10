@@ -1,4 +1,95 @@
 =======================
+     2020/08/10
+=======================
+
+* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
+
+4b6e65b fsupdater: Cleanup and add sha1sumcheck
+
+* Repository: https://github.com/FreakyOS-Devices/device_samsung_a7xelte/commits/still_alive
+
+4b15f07 a7xelte: Refractor and init tree for FreakyOS
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+2db90f1 Disable Notifications vibration [1/2]
+
+* Repository: /commits/still_alive
+
+e5ccee6 Settings: Redirect FreakyOS logo to our website
+75692d7 assests: add missing info
+
+
+=======================
+     2020/08/09
+=======================
+
+* Repository: https://github.com/FreakyOS/build/commits/still_alive
+
+0ef73bb build: releasetools: replace ASCII banner with a new banner
+
+* Repository: https://github.com/LineageOS/android_hardware_qcom_display/commits/lineage-17.1-caf-sm8250
+
+4ab176b Add C2D_COLOR_FORMAT_420_P010 to C2D_YUV_FORMAT
+
+* Repository: /commits/still_alive
+
+2afd20b Developer options toast insulter
+9fd337a Allows to launch only authenticator owned activities
+fe7dafd assets: Team: Update coordinator info & Some misc changes
+e82146b assets: team: Add our coordinators!
+290b2e0 assets: Added maintainer info for X00P/X00R
+5f7f563 team: update team details!
+36b4d0b assets: Added Realme 5 Pro
+e69c294 assets: Added ginkgo/santoni/ysl
+33cced1 assets: Added begonia
+
+* Repository: https://github.com/FreakyOS/packages_apps_Updater/commits/still_alive
+
+fca1903 [WIP]Updater: Welcome our New Updater UI
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+cdc3c11 vendor: Fix the flag for faceunlock
+
+
+=======================
+     2020/08/08
+=======================
+
+* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
+
+7df13a9 Allow to drop existing fd cache of cgroup path
+
+
+=======================
+     2020/08/07
+=======================
+
+* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+
+980b99e Manifest for Android 10.0.0 Release 41 (QQ3A.200805.001)
+
+
+=======================
+     2020/08/06
+=======================
+
+
+=======================
+     2020/08/05
+=======================
+
+* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
+
+a8aa3e2 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/frameworks/av into still_alive
+
+* Repository: https://github.com/FreakyOS/packages_services_Telephony/commits/still_alive
+
+2e5d8d4 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/packages/services/Telephony into still_alive
+
+
+=======================
      2020/08/04
 =======================
 
@@ -6,10 +97,6 @@
 =======================
      2020/08/03
 =======================
-
-* Repository: /commits/still_alive
-
-19acd95 updated ui
 
 
 =======================
@@ -20,10 +107,6 @@
 =======================
      2020/08/01
 =======================
-
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-ca946df vendor: Build faceunlock if detect arm64
 
 
 =======================
@@ -45,62 +128,12 @@ ca946df vendor: Build faceunlock if detect arm64
      2020/07/28
 =======================
 
-* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
-
-969ecd3 UI changes for PixelExperience
-
-* Repository: /commits/still_alive
-
-82a7a04 WallBucket: Welcome our new WallBucket
-
-
-=======================
-     2020/07/27
-=======================
-
 * Repository: /commits/still_alive
 
 6a7ba7b Settings: Graveyard: Integrate our new Graveyard
 
+* Repository: /commits/still_alive
 
-=======================
-     2020/07/26
-=======================
-
-
-=======================
-     2020/07/25
-=======================
-
-
-=======================
-     2020/07/24
-=======================
-
-
-=======================
-     2020/07/23
-=======================
-
-* Repository: https://github.com/FreakyOS-Devices/device_samsung_a5xelte/commits/still_alive
-
-70e294c a5xelte: Refractor for FreakyOS
-
-* Repository: https://github.com/FreakyOS-Devices/device_samsung_a7xelte/commits/still_alive
-
-761c735 a7xelte: Refractor and init tree for FreakyOS
-
-
-=======================
-     2020/07/22
-=======================
-
-* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
-
-fe67caf SystemUI: VolumePanel: Version 1.1
-
-* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
-
-b03dd6e OmniStyle: Added One Piece headers
+82a7a04 WallBucket: Welcome our new WallBucket
 
 
