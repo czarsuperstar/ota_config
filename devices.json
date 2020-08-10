@@ -22,6 +22,13 @@
             "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/a3xelte.png"
         },
         {
+            "name": "Samsung J5 (SM-J500FN)",
+            "brand": "Samsung",
+            "codename": "j5nlte",
+            "maintainer": "latviandude",
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j5-sm-j500f.jpg"
+        },
+        {
             "name": "Xiaomi Redmi Note 6 Pro",
             "brand": "Xiaomi",
             "codename": "tulip",
@@ -118,7 +125,18 @@
             "codename": "curtana",
             "maintainer": "Shakil",
             "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/curtana.png"
+        },
+        {
+            "name": "Moto One Power",
+            "brand": "Motorola",
+            "codename": "chef",
+            "maintainer": "Pratik Goswami",
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/chef.png",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=8893172",
+            "telegram_link": "https://t.me/PM_The_Angry",
+            "github_link": "https://github.com/puribapu9141"
         }
+
     ]
 }
 
