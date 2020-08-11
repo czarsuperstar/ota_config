@@ -135,8 +135,17 @@
             "xda_link": "https://forum.xda-developers.com/member.php?u=8893172",
             "telegram_link": "https://t.me/PM_The_Angry",
             "github_link": "https://github.com/puribapu9141"
-        }
-
+        },
+        {
+            "name": "Lenovo Vibe K5",
+            "brand": "Lenovo",
+            "codename": "A6020",
+            "maintainer": "Chrosh",
+            "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-k5.jpg",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=8262274",
+            "telegram_link": "https://t.me/chr_osh",
+            "github_link": "https://github.com/chrosh04"
+        }		
     ]
 }
 
