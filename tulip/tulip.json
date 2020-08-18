@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1596986203,
-      "filename": "FreakyOS_ver[X]-tulip-20200809-1518-OFFICIAL.zip",
-      "id": "cc9a10f623737342313d5b563eef0c68",
+      "datetime": 1597766893,
+      "filename": "FreakyOS_ver[X]-tulip-20200818-1609-OFFICIAL.zip",
+      "id": "fe4809de7f0698d29f68c34137c589af",
       "romtype": "OFFICIAL",
-      "size": 991053386,
-      "url": "https://sourceforge.net/projects/freakyos/files/tulip/FreakyOS_ver[X]-tulip-20200809-1518-OFFICIAL.zip/download",
+      "size": 968030531,
+      "url": "https://sourceforge.net/projects/freakyos/files/tulip/FreakyOS_ver[X]-tulip-20200818-1609-OFFICIAL.zip/download",
       "version": "ver[X]"
     }
   ]
