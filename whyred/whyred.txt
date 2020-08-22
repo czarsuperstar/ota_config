@@ -1,0 +1,8 @@
+Device Changelog:-
+   • Based on Lineage sdm660 kernel and trees
+   • Added Mi Sound Enhancer (Dirac)
+   • Added FPS counter
+   • Added MIUI Camera
+   • Old camera blobs
+Source Side:-
+   - Initial Build
