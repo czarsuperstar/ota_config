@@ -138,7 +138,16 @@
             "xda_link": "https://forum.xda-developers.com/member.php?u=8262274",
             "telegram_link": "https://t.me/chr_osh",
             "github_link": "https://github.com/chrosh04"
-        }		
+        },
+        {
+            "name": "LeEco Le 2",
+            "brand": "LeEco",
+            "codename": "s2",
+            "maintainer": "merser2005",
+            "image": "http://cdn2.gsmarena.com/vv/pics/leeco/le-eco-le2.jpg",
+            "telegram_link": "https://t.me/merser2005",
+            "github_link": "https://github.com/merser2005"
+        }               
     ]
 }
 
