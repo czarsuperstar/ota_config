@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1596003215,
-      "filename": "FreakyOS_ver[X]-X00R-20200729-0615-OFFICIAL.zip",
-      "id": "33742a702ad2ffc7c61b686904b1252f",
+      "datetime": 1598156892,
+      "filename": "FreakyOS_ver[X]-X00R-20200823-0429-OFFICIAL.zip",
+      "id": "55de4175da23897aeb8ac05da4f0a968",
       "romtype": "OFFICIAL",
-      "size": 787739793,
-      "url": "https://sourceforge.net/projects/freakyos/files/X00R/FreakyOS_ver[X]-X00R-20200729-0615-OFFICIAL.zip/download",
+      "size": 945006204,
+      "url": "https://sourceforge.net/projects/freakyos/files/X00R/FreakyOS_ver[X]-X00R-20200823-0429-OFFICIAL.zip/download",
       "version": "ver[X]"
     }
   ]
