@@ -29,6 +29,13 @@
             "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/twolip.png"
         },
         {
+            "name": "Pocophone F1",
+            "brand": "Xiaomi",
+            "codename": "beryllium",
+            "maintainer": "SahilSonar",
+            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/beryllium.png"
+        },
+        {
             "name": "Xiaomi Redmi Note 7 Pro",
             "brand": "Xiaomi",
             "codename": "violet",
