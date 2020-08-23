@@ -1,0 +1,190 @@
+=======================
+     2020/08/23
+=======================
+
+* Repository: https://github.com/FreakyOS-Devices/device_realme_RMX1971/commits/still_alive
+
+3e970b6 RMX1971: fix derp
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+691744f CaffeineTile: Fix crash for longClick result
+
+* Repository: /commits/still_alive
+
+352337e settings: Add s2 maintainer
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+3c70fb7 vendor: Add s2 to official
+
+
+=======================
+     2020/08/22
+=======================
+
+* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
+
+76a750a Update prebuilt apk
+
+
+=======================
+     2020/08/21
+=======================
+
+* Repository: /commits/still_alive
+
+3300e3c Settings: Graveyard: Remove launcher action for the Graveyard
+
+
+=======================
+     2020/08/20
+=======================
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sm8150_display/commits/ten
+
+2478639 sdm: mark FOD pressed layer by setting a bit on ZPOS
+
+
+=======================
+     2020/08/19
+=======================
+
+* Repository: /commits/still_alive
+
+df0209b Removed maintainer info for dropped devices
+9a00627 Implement refresh rate control
+d6a392b Revert "Settings: Add refresh rate setting [2/2]"
+10bafdb Automatic translation import
+ebfdfa0 Settings: Hide screen off fod if fingerprint not enrolled
+06fb4a1 Improve screen off fod translation
+141399b Settings: Screen off fod [2/2]
+
+
+=======================
+     2020/08/18
+=======================
+
+
+=======================
+     2020/08/17
+=======================
+
+
+=======================
+     2020/08/16
+=======================
+
+* Repository: https://github.com/FreakyOS-Devices/realme_rmx1971_kernel/commits/still_alive
+
+a24b7bd Make sure to use same scancode values as KharaMeParts
+
+* Repository: /commits/still_alive
+
+503977d Settings: Added maintainer's info for beryllium
+0cc9663 Global Actions with Advanced Reboot [3/3]
+
+
+=======================
+     2020/08/15
+=======================
+
+* Repository: https://github.com/PixelExperience/device_qcom_sepolicy/commits/ten
+
+69c2528 sepolicy: cnd: Fix wifi_prop neverallow for compatible props
+
+* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
+
+3075d71 Allow graceful degradation of MediaProfile with broken configuration.
+
+* Repository: https://github.com/FreakyOS/frameworks_opt_telephony/commits/still_alive
+
+4a4ec1e Failed to show hold call when user click swap and merge simultaneously
+
+* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+
+7fe1473 Track CarrierConfig
+
+* Repository: /commits/still_alive
+
+e34990a Added maintainer info for A6020
+882c751 Added maintainer info for chef and j5nlte
+
+* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
+
+25a3478 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_providers_DownloadProvider/commits/ten
+
+a0eaafc Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
+
+c14d7fa Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
+
+e8f9d7a Automatic translation import
+
+* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
+
+6bddc12 Boost init priority before main loop
+
+
+=======================
+     2020/08/14
+=======================
+
+* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
+
+3a822e9 recovery: fixup `compute displayable item count while drawing`
+
+* Repository: https://github.com/PixelExperience/device_qcom_sepolicy-legacy-um/commits/ten
+
+ca5f247 Sepolicy: add define for lksecapp vbmeta and dtbo
+
+* Repository: https://github.com/PixelExperience/external_gptfdisk/commits/ten
+
+6baff7d Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/external/gptfdisk into HEAD
+
+* Repository: https://github.com/FreakyOS/hardware_custom_interfaces/commits/still_alive
+
+b4bfa57 custom/interfaces: power: Add HIDL HAL interface
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sdm845_display/commits/ten
+
+a7c9fb3 gralloc: Add option for unaligned YCrCb/YCbCr pixel format height
+
+* Repository: https://github.com/PixelExperience/packages_apps_Camera2/commits/ten
+
+586718f AOSP/Camera2: there is no camera icon shown if have no camera in first boot up
+
+* Repository: https://github.com/PixelExperience/packages_apps_CarrierConfig/commits/ten
+
+a80f2e1 Fix voicemail for Bouygues Telecom France
+
+* Repository: https://github.com/PixelExperience/vendor_qcom_opensource_power/commits/ten
+
+ec1263c power: Ignore interaction boost sequence in a short period
+
+
+=======================
+     2020/08/13
+=======================
+
+
+=======================
+     2020/08/12
+=======================
+
+
+=======================
+     2020/08/11
+=======================
+
+
+=======================
+     2020/08/10
+=======================
+
+
