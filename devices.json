@@ -120,9 +120,9 @@
             "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/whyred.png"
         },
         {
-            "name": "Xiaomi Redmi Note 9S/9 Pro",
+            "name": "Xiaomi Redmi Note 9S/9 Pro/9 Global/Poco M2 Pro",
             "brand": "Xiaomi",
-            "codename": "curtana",
+            "codename": "miatoll",
             "maintainer": "Shakil",
             "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/curtana.png"
         },
