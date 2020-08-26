@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1598112223,
-      "filename": "FreakyOS_ver[X]-ginkgo-20200822-1605-OFFICIAL.zip",
-      "id": "a0e92cdf8cf458a4cb5df19fdb5d0e90",
+      "datetime": 1598456319,
+      "filename": "FreakyOS_ver[X]-ginkgo-20200826-1540-OFFICIAL.zip",
+      "id": "c02fb74cf038a0de1566757176afde3e",
       "romtype": "OFFICIAL",
-      "size": 1068248136,
-      "url": "https://sourceforge.net/projects/freakyos/files/ginkgo/FreakyOS_ver[X]-ginkgo-20200822-1605-OFFICIAL.zip/download",
+      "size": 1058648040,
+      "url": "https://sourceforge.net/projects/freakyos/files/ginkgo/FreakyOS_ver[X]-ginkgo-20200826-1540-OFFICIAL.zip/download",
       "version": "ver[X]"
     }
   ]
