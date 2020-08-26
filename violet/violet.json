@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1595144031,
-      "filename": "FreakyOS_ver[X]-violet-20200719-0735-OFFICIAL.zip",
-      "id": "9081ab90e6ade19419cf176fb8d3341c",
+      "datetime": 1598376911,
+      "filename": "FreakyOS_ver[X]-violet-20200825-1736-OFFICIAL.zip",
+      "id": "0649b6451461c61e26a18200dd6aced1",
       "romtype": "OFFICIAL",
-      "size": 1150321745,
-      "url": "https://sourceforge.net/projects/freakyos/files/violet/FreakyOS_ver[X]-violet-20200719-0735-OFFICIAL.zip/download",
+      "size": 1076542776,
+      "url": "https://sourceforge.net/projects/freakyos/files/violet/FreakyOS_ver[X]-violet-20200825-1736-OFFICIAL.zip/download",
       "version": "ver[X]"
     }
   ]
