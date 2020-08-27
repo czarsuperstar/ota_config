@@ -154,7 +154,17 @@
             "image": "http://cdn2.gsmarena.com/vv/pics/leeco/le-eco-le2.jpg",
             "telegram_link": "https://t.me/merser2005",
             "github_link": "https://github.com/merser2005"
-        }               
+        },
+        {
+            "name": "ZenFone Max Pro M1",
+            "brand": "Asus",
+            "codename": "X00T",
+            "maintainer": "pkm774",
+            "image": "https://i-cdn.phonearena.com/images/articles/320775-image/Asus-ZenFone-Max-Pro-M1.jpg",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=10600757",
+            "telegram_link": "https://t.me/pkm774",
+            "github_link": "https://github.com/mprabhat774"
+        }
     ]
 }
 
