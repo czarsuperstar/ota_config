@@ -1,139 +1,69 @@
+INITIAL BUILD
+
 =======================
-     2020/08/09
+     2020/09/01
 =======================
-
-* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
-
-4b6e65b fsupdater: Cleanup and add sha1sumcheck
-
-* Repository: https://github.com/FreakyOS-Devices/device_samsung_a3xelte/commits/still_alive
-
-3256bac a3xelte: Refractor for FreakyOS
-
-* Repository: https://github.com/FreakyOS-Devices/device_samsung_a5xelte/commits/still_alive
-
-830637d a5xelte: Refractor for FreakyOS
 
 * Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
 
-2db90f1 Disable Notifications vibration [1/2]
-
-* Repository: /commits/still_alive
-
-e5ccee6 Settings: Redirect FreakyOS logo to our website
-75692d7 assests: add missing info
-
-
-=======================
-     2020/08/08
-=======================
-
-* Repository: https://github.com/FreakyOS/build/commits/still_alive
-
-0ef73bb build: releasetools: replace ASCII banner with a new banner
-
-* Repository: https://github.com/LineageOS/android_hardware_qcom_display/commits/lineage-17.1-caf-sm8250
-
-4ab176b Add C2D_COLOR_FORMAT_420_P010 to C2D_YUV_FORMAT
-
-* Repository: /commits/still_alive
-
-2afd20b Developer options toast insulter
-9fd337a Allows to launch only authenticator owned activities
-fe7dafd assets: Team: Update coordinator info & Some misc changes
-e82146b assets: team: Add our coordinators!
-290b2e0 assets: Added maintainer info for X00P/X00R
-5f7f563 team: update team details!
-36b4d0b assets: Added Realme 5 Pro
-e69c294 assets: Added ginkgo/santoni/ysl
-33cced1 assets: Added begonia
-
-* Repository: https://github.com/FreakyOS/packages_apps_Updater/commits/still_alive
-
-fca1903 [WIP]Updater: Welcome our New Updater UI
-
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-cdc3c11 vendor: Fix the flag for faceunlock
-
-
-=======================
-     2020/08/07
-=======================
-
-
-=======================
-     2020/08/07
-=======================
+15355e5 base: fix build errors and typos
+e05c015 Text battery style: show a bolt ⚡ when charging
 
 * Repository: https://github.com/FreakyOS/manifest/commits/still_alive
 
-980b99e Manifest for Android 10.0.0 Release 41 (QQ3A.200805.001)
+d2695f9 manifest: do not track WallBucket
 
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
 
-=======================
-     2020/08/06
-=======================
-
+617704f overlays: Hide pill in full gestural nav mode [3/3]
 
 =======================
-     2020/08/05
+     2020/08/27
 =======================
 
-* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
+* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
 
-a8aa3e2 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/frameworks/av into still_alive
+1699009 Bring Legendery Dragon Ball Headers * Credits to all those unknown authors of the images Signed-off-by: Flamefusion <meshekharbehera613@gmail.com>
 
-* Repository: https://github.com/FreakyOS/packages_services_Telephony/commits/still_alive
+* Repository: /commits/still_alive
 
-2e5d8d4 Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/packages/services/Telephony into still_alive
-
-
-=======================
-     2020/08/04
-=======================
-
+76c5da5 RefreshRatePreferenceController: Add overlay to disable it
 
 =======================
-     2020/08/03
-=======================
-
-
-=======================
-     2020/08/02
-=======================
-
-
-=======================
-     2020/08/01
-=======================
-
-
-=======================
-     2020/07/31
-=======================
-
-
-=======================
-     2020/07/30
-=======================
-
-
-=======================
-     2020/07/29
-=======================
-
-
-=======================
-     2020/07/28
+     2020/08/23
 =======================
 
 * Repository: /commits/still_alive
 
-6a7ba7b Settings: Graveyard: Integrate our new Graveyard
+352337e settings: Add s2 maintainer
+
+=======================
+     2020/08/21
+=======================
+
+* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
+
+76a750a Update prebuilt apk
 
 * Repository: /commits/still_alive
 
-82a7a04 WallBucket: Welcome our new WallBucket
+3300e3c Settings: Graveyard: Remove launcher action for the Graveyard
 
+
+=======================
+     2020/08/20
+=======================
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sm8150_display/commits/ten
+
+2478639 sdm: mark FOD pressed layer by setting a bit on ZPOS
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sm8150_media/commits/ten
+
+0413dc5 mm-video-v412: Enable UBWC conditionally.
+
+
+=======================
+     2020/08/19
+=======================
 
