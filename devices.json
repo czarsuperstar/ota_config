@@ -144,6 +144,16 @@
             "xda_link": "https://forum.xda-developers.com/member.php?u=10600757",
             "telegram_link": "https://t.me/pkm774",
             "github_link": "https://github.com/mprabhat774"
+        },
+        {
+            "name": "Realme 2 Pro",
+            "brand": "Realme",
+            "codename": "RMX1801",
+            "maintainer": "Inder",
+            "image": "https://static.realme.net/page/realme2pro/images/sec-banner-phone-02c8a9576e.png",
+            "xda_link": "https://forum.xda-developers.com/member.php?u=9423214",
+            "telegram_link": "https://t.me/ishant86",
+            "github_link": "https://github.com/inder864"
         }
     ]
 }
