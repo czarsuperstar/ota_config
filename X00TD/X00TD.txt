@@ -1,1 +1,118 @@
-Initial Build
+=======================
+     2020/09/04
+=======================
+
+* Repository: https://github.com/FreakyOS-Devices/device_asus_X00TD/commits/still_alive
+
+9475f91 X00TD: Removed pixel-charger as its present already in vendor
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+aa97f84 Devices: Dropped chef
+
+
+=======================
+     2020/09/03
+=======================
+
+
+=======================
+     2020/09/02
+=======================
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+15355e5 base: fix build errors and typos
+
+* Repository: https://github.com/LineageOS/android_prebuilts_tools-lineage/commits/lineage-17.1
+
+b0e4e6a tools-lineage: Add prebuilt DTC
+
+
+=======================
+     2020/09/01
+=======================
+
+* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+
+d2695f9 manifest: do not track WallBucket
+
+
+=======================
+     2020/08/31
+=======================
+
+
+=======================
+     2020/08/30
+=======================
+
+
+=======================
+     2020/08/29
+=======================
+
+
+=======================
+     2020/08/28
+=======================
+
+
+=======================
+     2020/08/27
+=======================
+
+* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
+
+1699009 Bring Legendery Dragon Ball Headers * Credits to all those unknown authors of the images Signed-off-by: Flamefusion <meshekharbehera613@gmail.com>
+
+* Repository: /commits/still_alive
+
+76c5da5 RefreshRatePreferenceController: Add overlay to disable it
+
+
+=======================
+     2020/08/26
+=======================
+
+
+=======================
+     2020/08/25
+=======================
+
+
+=======================
+     2020/08/24
+=======================
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_bluetooth_ext/commits/lineage-17.1
+
+d72ceb0 btconfigstore: Get rid of additional android.hidl.base@1.0
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_packages_apps_Bluetooth/commits/lineage-17.1
+
+4931332 Clean up duplicate uses-permission entries
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_system_bt/commits/lineage-17.1
+
+8c63b64 bt: Rename QTI stack config to avoid conflict w/ AOSP one
+
+
+=======================
+     2020/08/23
+=======================
+
+* Repository: /commits/still_alive
+
+352337e settings: Add s2 maintainer
+
+
+=======================
+     2020/08/22
+=======================
+
+* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
+
+76a750a Update prebuilt apk
+
+
