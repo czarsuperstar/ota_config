@@ -1,68 +1,154 @@
-INITIAL BUILD
-
 =======================
-     2020/09/01
+     2020/10/11
 =======================
 
 * Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
 
-15355e5 base: fix build errors and typos
-e05c015 Text battery style: show a bolt ⚡ when charging
+caf384f Power button flashlight: allow to skip proximity check per device
+3c6ef2c Power button flashlight toggle: add proximity sensor check
+b07c46f Allow doubletap/longpress power to toggle torch [1/2]
+6db6fe9 base: add camera flash toggle api
+55d0dad base: Flashlight toggle api improvements
+c37cc25 Add api to toggle flashlight and check if device has flashlight
+5f369a7 [SQUASH] BoostFramework: To Enhance performance.
+050ae23 base: Add Restart SystemUI button on Power Menu
 
-* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
+* Repository: /commits/still_alive
 
-d2695f9 manifest: do not track WallBucket
+6b6e7e3 Settings: Add primary color picker from Styles & Wallpapers
+1ff483e Settings: Add Statusbar Icon Picker from Styles & Wallpapers
+286c00c Settings: Move theming to display settings
 
 * Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
 
-617704f overlays: Hide pill in full gestural nav mode [3/3]
-
-=======================
-     2020/08/27
-=======================
-
-* Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
-
-1699009 Bring Legendery Dragon Ball Headers * Credits to all those unknown authors of the images Signed-off-by: Flamefusion <meshekharbehera613@gmail.com>
-
-* Repository: /commits/still_alive
-
-76c5da5 RefreshRatePreferenceController: Add overlay to disable it
-
-=======================
-     2020/08/23
-=======================
-
-* Repository: /commits/still_alive
-
-352337e settings: Add s2 maintainer
-
-=======================
-     2020/08/21
-=======================
-
-* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
-
-76a750a Update prebuilt apk
-
-* Repository: /commits/still_alive
-
-3300e3c Settings: Graveyard: Remove launcher action for the Graveyard
+d6f4045 vendor: freakystyle: bring up system tones
+01fe00a vendor: freakystyle: Add new fonts [2/2]
 
 
 =======================
-     2020/08/20
+     2020/10/10
 =======================
 
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sm8150_display/commits/ten
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
 
-2478639 sdm: mark FOD pressed layer by setting a bit on ZPOS
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sm8150_media/commits/ten
-
-0413dc5 mm-video-v412: Enable UBWC conditionally.
+ce34615 base: Add option to center "R style" notification headers [1/2]
+aa7fa17 overlay: Introduce skin tones
+d4e25e3 base: overlay: Add new fonts [1/2]
+b7aa982 Add new font config to font overlays
+933f4be Export all font configs
+4bb9903 Add Missing fonts configs
+c3457e5 overlays: Accents: Bring back google's default blue accent! Yup! We actually miss it xD
 
 
 =======================
-     2020/08/19
+     2020/10/09
 =======================
+
+* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
+
+17d80ee recovery: Always use the text menu for rescue party
+
+* Repository: https://github.com/PixelExperience/device_qcom_sepolicy-legacy-um/commits/ten
+
+571e87f sepolicy-legacy-um: Add sepolices to update engine domain.
+
+* Repository: https://github.com/PixelExperience/hardware_libhardware/commits/ten
+
+61bc5ec audio_amplifier: Add new hook for setting amp feedback
+
+* Repository: https://github.com/PixelExperience/hardware_qcom_display/commits/ten
+
+8570a04 msm8084: hwcomposer: Fix unused parameter build warning
+
+* Repository: https://github.com/PixelExperience/packages_providers_DownloadProvider/commits/ten
+
+f69ca6b Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
+
+934d97b Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
+
+c6b2c57 Automatic translation import
+
+
+=======================
+     2020/10/08
+=======================
+
+
+=======================
+     2020/10/07
+=======================
+
+
+=======================
+     2020/10/06
+=======================
+
+
+=======================
+     2020/10/05
+=======================
+
+
+=======================
+     2020/10/04
+=======================
+
+* Repository: https://github.com/LineageOS/android_hardware_samsung_slsi_exynos/commits/lineage-17.1
+
+f518dea libhwc: resolve compilation errors
+
+
+=======================
+     2020/10/03
+=======================
+
+
+=======================
+     2020/10/02
+=======================
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+f6903c9 [WIP]vendor: freakystyle: Introduce The FreakyOS Themes App
+
+
+=======================
+     2020/10/01
+=======================
+
+* Repository: https://github.com/LineageOS/android_hardware_qcom_display/commits/lineage-17.1-caf-msm8916
+
+2facb06 Gralloc: Validate buffer parameters during importBuffer call
+
+* Repository: https://github.com/LineageOS/android_packages_apps_Email/commits/lineage-17.1
+
+66c6d3f Automatic translation import
+
+
+=======================
+     2020/09/30
+=======================
+
+
+=======================
+     2020/09/29
+=======================
+
+
+=======================
+     2020/09/28
+=======================
+
+* Repository: https://github.com/LineageOS/android_hardware_qcom_display/commits/lineage-17.1-caf-msm8974
+
+d5ea072 copybit: Export c2d header
+
+* Repository: https://github.com/LineageOS/android_hardware_qcom_media/commits/lineage-17.1-caf-msm8974
+
+0ac6d80 libc2dcolorconvert: Remove dependency on stagefright
+
+
