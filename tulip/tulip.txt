@@ -1,200 +1,106 @@
 =======================
-     2020/08/22
+     2020/10/27
 =======================
 
 
 =======================
-     2020/08/21
-=======================
-
-* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
-
-76a750a Update prebuilt apk
-
-* Repository: /commits/still_alive
-
-3300e3c Settings: Graveyard: Remove launcher action for the Graveyard
-
-
-=======================
-     2020/08/20
-=======================
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sm8150_display/commits/ten
-
-2478639 sdm: mark FOD pressed layer by setting a bit on ZPOS
-
-* Repository: https://github.com/xiaomi-sdm660/android_kernel_xiaomi_sdm660/commits/master
-
-a95004f drivers: scsi: separate the elements
-
-
-=======================
-     2020/08/19
-=======================
-
-* Repository: /commits/still_alive
-
-df0209b Removed maintainer info for dropped devices
-9a00627 Implement refresh rate control
-d6a392b Revert "Settings: Add refresh rate setting [2/2]"
-10bafdb Automatic translation import
-ebfdfa0 Settings: Hide screen off fod if fingerprint not enrolled
-06fb4a1 Improve screen off fod translation
-141399b Settings: Screen off fod [2/2]
-
-
-=======================
-     2020/08/18
+     2020/10/26
 =======================
 
 * Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
 
-aff40b8 vendor: devices: Added beryllium to official's
+0ee40da vendor: freakystyle: bring up system tones
+9bb4b21 vendor: freakystyle: Add new fonts [2/2]
+789ab7b vendor: freakystyle: Introduce The FreakyOS Themes App
 
 
 =======================
-     2020/08/17
+     2020/10/25
+=======================
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+30caa19 base: overlay: Nuke unwanted skin tones
+
+
+=======================
+     2020/10/24
+=======================
+
+* Repository: https://github.com/FreakyOS/build/commits/still_alive
+
+7b11956 Bump Security String to 2020-10-05
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+f9cedfb Power button flashlight: allow to skip proximity check per device
+50dfbe7 Power button flashlight toggle: add proximity sensor check
+a3146b1 Allow doubletap/longpress power to toggle torch [1/2]
+8490545 base: add camera flash toggle api
+e781113 base: Flashlight toggle api improvements
+d99fabc Add api to toggle flashlight and check if device has flashlight
+
+* Repository: /commits/still_alive
+
+a5276bc Added: launch fragment of graveyard
+a644da3 Added graveyard entry in top level settings and manifest
+
+
+=======================
+     2020/10/23
 =======================
 
 
 =======================
-     2020/08/16
+     2020/10/22
 =======================
 
 * Repository: https://github.com/FreakyOS-Devices/device_xiaomi_tulip/commits/still_alive
 
-496fb1a tulip: add hwui and camera props
-
-* Repository: /commits/still_alive
-
-503977d Settings: Added maintainer's info for beryllium
-0cc9663 Global Actions with Advanced Reboot [3/3]
+4ff129a tulip: Update to coral R Oct fp!
 
 
 =======================
-     2020/08/15
-=======================
-
-* Repository: https://github.com/PixelExperience/device_qcom_sepolicy/commits/ten
-
-69c2528 sepolicy: cnd: Fix wifi_prop neverallow for compatible props
-
-* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
-
-db4a0f4 Revert "base: Add refresh rate setting [1/2]"
-
-
-=======================
-     2020/08/14
-=======================
-
-* Repository: https://github.com/PixelExperience/external_gptfdisk/commits/ten
-
-6baff7d Merge tag 'android-10.0.0_r41' of https://android.googlesource.com/platform/external/gptfdisk into HEAD
-
-* Repository: https://github.com/FreakyOS/frameworks_av/commits/still_alive
-
-3075d71 Allow graceful degradation of MediaProfile with broken configuration.
-
-* Repository: https://github.com/FreakyOS/frameworks_opt_telephony/commits/still_alive
-
-4a4ec1e Failed to show hold call when user click swap and merge simultaneously
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sdm845_display/commits/ten
-
-a7c9fb3 gralloc: Add option for unaligned YCrCb/YCbCr pixel format height
-
-* Repository: https://github.com/FreakyOS/manifest/commits/still_alive
-
-7fe1473 Track CarrierConfig
-
-* Repository: https://github.com/PixelExperience/packages_apps_CarrierConfig/commits/ten
-
-a80f2e1 Fix voicemail for Bouygues Telecom France
-
-* Repository: /commits/still_alive
-
-e34990a Added maintainer info for A6020
-882c751 Added maintainer info for chef and j5nlte
-
-* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
-
-25a3478 Automatic translation import
-
-* Repository: https://github.com/PixelExperience/packages_providers_DownloadProvider/commits/ten
-
-a0eaafc Automatic translation import
-
-* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
-
-c14d7fa Automatic translation import
-
-* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
-
-e8f9d7a Automatic translation import
-
-* Repository: https://github.com/FreakyOS/system_core/commits/still_alive
-
-6bddc12 Boost init priority before main loop
-
-
-=======================
-     2020/08/13
-=======================
-
-* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
-
-3a822e9 recovery: fixup `compute displayable item count while drawing`
-
-* Repository: https://github.com/PixelExperience/device_qcom_sepolicy-legacy-um/commits/ten
-
-ca5f247 Sepolicy: add define for lksecapp vbmeta and dtbo
-
-* Repository: https://github.com/FreakyOS-Devices/android_device_xiaomi_sdm660-common/commits/still_alive
-
-f1ef567 Merge remote-tracking branch 'upstream/lineage-17.1' into still_alive
-
-* Repository: https://github.com/FreakyOS/hardware_custom_interfaces/commits/still_alive
-
-b4bfa57 custom/interfaces: power: Add HIDL HAL interface
-
-* Repository: https://github.com/PixelExperience/packages_apps_Camera2/commits/ten
-
-586718f AOSP/Camera2: there is no camera icon shown if have no camera in first boot up
-
-* Repository: https://github.com/PixelExperience/vendor_qcom_opensource_power/commits/ten
-
-ec1263c power: Ignore interaction boost sequence in a short period
-
-* Repository: https://github.com/niteshkumar2000/proprietary_vendor_xiaomi/commits/still_alive
-
-d53151e sdm660-common: Update blobs from jasmine V11.0.12.0.QDIMIXM
-
-
-=======================
-     2020/08/12
+     2020/10/21
 =======================
 
 
 =======================
-     2020/08/11
+     2020/10/20
 =======================
 
 
 =======================
-     2020/08/10
+     2020/10/19
 =======================
 
 
 =======================
-     2020/08/09
+     2020/10/18
 =======================
 
-* Repository: /commits/still_alive
+* Repository: https://github.com/xiaomi-sdm660/android_kernel_xiaomi_sdm660/commits/master
 
-e5ccee6 Settings: Redirect FreakyOS logo to our website
-75692d7 assests: add missing info
-2afd20b Developer options toast insulter
+b60d689 Merge 4.4.240 from https://github.com/android-linux-stable/msm-4.4 * ALS: https://github.com/android-linux-stable/msm-4.4 * Branch: kernel.lnx.4.4.r38-rel
+
+
+=======================
+     2020/10/17
+=======================
+
+
+=======================
+     2020/10/16
+=======================
+
+
+=======================
+     2020/10/15
+=======================
+
+
+=======================
+     2020/10/14
+=======================
 
 
